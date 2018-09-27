@@ -1,0 +1,21 @@
+.example-container {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+   top: 0;
+  /* bottom: 0; */
+  left: 0;
+  right: 0;
+}
+
+.example-sidenav-container {
+  /* When the sidenav is not fixed, stretch the sidenav container to fill the available space. This
+     causes `<mat-sidenav-content>` to act as our scrolling element for desktop layouts. */
+  flex: 1;
+}
+
+.bg-gradient {
+  background: #333333;
+  background: -webkit-linear-gradient(135deg, #2d5efd 0, #1e23bd 60%, #030d9b 100%);
+  background: linear-gradient(135deg, #2d5efd 0, #1e23bd 60%, #030d9b 100%);
+}

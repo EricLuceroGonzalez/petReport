@@ -1,0 +1,21 @@
+[{
+    "value": "hembra",
+    "viewValue": "Hembra"
+  },
+  {
+    "value": "masculino",
+    "viewValue": "Masculino"
+  },
+  {
+    "value": "genderqueer",
+    "viewValue": "Intergenero"
+  },
+  {
+    "value": "hermafrodita",
+    "viewValue": "Hemafrodita"
+  },
+  {
+    "value": "neutro",
+    "viewValue": "Neutro"
+  }
+]

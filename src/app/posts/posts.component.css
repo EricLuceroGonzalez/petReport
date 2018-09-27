@@ -1,0 +1,182 @@
+/* Palette from: http://paletton.com/#uid=3301a0kwXWiP6o5U4JgnNWqe7X1 */
+.div-form {
+  margin: 20px auto;
+  width: 85%;
+  border-left: 6px solid #FFCE00;
+  box-shadow: 7px 7px 8px rgba(30, 75, 50, 0.75);
+
+}
+
+form {
+  padding: 12px 0px;
+  margin: 12px auto;
+  border: 3px dashed rgba(250, 128, 114, 0.5);
+  width: 80%;
+}
+
+.nameWdth {
+  width: 36%;
+}
+
+.midWdth {
+  width: 140%;
+}
+
+.fullWdth {
+  width: 100%;
+}
+
+.alignTable {
+  align-content: center;
+  align-items: center;
+}
+
+.example-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.example-container>* {
+  width: 100%;
+}
+
+mat-form-field>mat-raised-button {
+  border: 2px solid slateblue;
+  margin: 0 auto;
+}
+
+button {
+  background-color: #9A0EF3;
+}
+
+agm-map {
+  margin: 0 auto;
+  height: 200px;
+  width: 50%;
+}
+
+.div-map {
+  border: 1px solid rosybrown;
+  margin: 0 auto;
+  width: 60%;
+  height: 400px;
+}
+
+.radio-group-A {
+  display: inline-flex;
+  flex-direction: column;
+  margin: 5px;
+  color: rgb(33, 223, 119);
+}
+
+.example-selected-value {
+  /* margin: 15px 0; */
+  font-size: 0.8em;
+  color: rgb(83, 240, 153);
+  text-shadow: 1px 1px 1px black;
+  /* Pallete:
+  1) #05386B, #379683, #5CDB95, #8EE4AF, #EDF5E1
+   */
+}
+
+.mat-success {
+  background-color: rgb(24, 199, 103);
+  color: #fff;
+}
+
+.input-datetime {
+  /* background-color: #FFCE00; */
+  background-color: #FFDB41;
+  border: none;
+  width: 80%;
+  border-bottom: 1px solid green;
+}
+
+/* Date and Time */
+.div-asButton {
+  font-size: 0.75em;
+  padding: 3px;
+  margin: 12px auto;
+  border: none;
+  box-shadow: 1px 1px 3px black;
+  background-color: #FFDB41;
+
+}
+
+/* Date and Time */
+
+/* Option - menu */
+::ng-deep .mat-select-content {
+  background-image: -webkit-linear-gradient(to top, #C5C8C6 1%, #C6C6C6 30%, #E4E6E5 100%);
+  background-image: linear-gradient(to top, #C5C8C6 1%, #C6C6C6 30%, #E4E6E5 100%);
+}
+
+.mat-select-panel {
+  border: 2px solid purple;
+  transform: translate(-2px, 44px) !important;
+  font-family: Lato, sans-serif;
+}
+
+mat-option {
+  font-size: 1.2em;
+}
+
+mat-option:active {
+  font-weight: bolder;
+  color: rgba(33, 223, 119, 1);
+  ;
+}
+
+/* Option - menu */
+.div-listForm {
+  margin: 0 auto;
+  /* background: rgba(33, 223, 119, 50);   */
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.507);
+  /* height: 45%; */
+  padding: 5px;
+  width: 55%;
+  display: block;
+  text-align: left;
+}
+
+.div-inline {
+  display: inline;
+  font-weight: bold
+}
+
+.postBackground {
+  margin: 20px auto;
+  padding: 50px 4%;
+  z-index: -10;
+  background: #333333;
+  background: -webkit-linear-gradient(135deg, #daace6 0, #5053a0 60%, #370558 100%);
+  background: linear-gradient(135deg, #daace6 0, #5053a0 60%, #370558 100%);
+  /* background-size: 100% 200%; */
+}
+
+.fancyBG01 {
+  background: -moz-linear-gradient(-45deg, rgb(61, 247, 154) 0%, rgb(1, 248, 125) 100%);
+  /* background: -moz-linear-gradient(-45deg, rgb(27, 255, 156) 0%, rgb(0, 207, 76) 100%); */
+  background: -webkit-linear-gradient(-45deg, rgb(27, 255, 156) 0%, rgb(0, 207, 76) 100%);
+  /* Chrome10-25,Safari5.1-6 */
+}
+
+.matGridShit {
+  width: 60%;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+mat-grid-tile {
+  cursor: pointer;
+  background-color: rgba(250, 128, 114, 0.75);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.div-rounded {
+  background: red;
+  border-radius: 50%;
+  padding: 2px;
+  width: 70px;
+  height: 70px;
+}

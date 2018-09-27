@@ -1,0 +1,59 @@
+.div-Component{
+  border: 3px solid greenyellow;
+  padding: 2px;
+}
+.div-homeButton{
+  border: 1px dashed blue;
+  padding: 5px 0;
+}
+
+button{
+  appearance: button;
+  -moz-appearance: button;
+  -webkit-appearance: button;
+  text-decoration: none;
+  font: menu;
+  font-size: 1.12em;
+  display: inline-block;
+  padding: 4px 12px;
+}
+
+.mat-raised-button {
+  padding: 25px 2px;
+  margin: 0 auto 12px;
+  font-size: 1.75em;
+  width: 69%;
+}
+.button-caption {
+  display: block;
+  margin: 3px auto;
+  font-size: 0.75em;
+  border: 1px dashed black;
+  width: 69%;
+}
+.button-caption > span {
+  background-color: coral;
+  border-radius: 3px;
+  padding: 0px 6px;
+  color: white;
+  font-weight: bold;
+}
+
+/* % % ------------------ The grid */
+.fancyBG01 {
+  background: -moz-linear-gradient(-45deg, rgb(61, 247, 154) 0%, rgb(1, 248, 125) 100%);
+  /* background: -moz-linear-gradient(-45deg, rgb(27, 255, 156) 0%, rgb(0, 207, 76) 100%); */
+  background: -webkit-linear-gradient(-45deg, rgb(27, 255, 156) 0%, rgb(0, 207, 76) 100%);
+  /* Chrome10-25,Safari5.1-6 */
+}
+.matGridShit {
+  width: 60%;
+  padding: 3px;
+  margin: 10px auto;
+}
+
+.matGridTile {
+  cursor: pointer;
+  border: 1px solid black;
+    /* background-color: rgba(202, 136, 49, 0.5); */
+}

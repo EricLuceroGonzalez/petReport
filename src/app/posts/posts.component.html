@@ -1,0 +1,204 @@
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<div class="postBackground">
+  <h3 style="color: black;">This is <div style="display: inline; color:rgb(255, 206, 0);"> {{ title }}</div>
+  </h3>
+
+  <div class="mat-app-background basic-container">
+    <mat-vertical-stepper class="fancyBG01">
+      <div class="main-container">
+        <mat-step>
+          <ng-template matStepLabel>Informacion General</ng-template>
+          <!-- General Info - div -->
+          <div class=" mt-3">
+            <div class="d-flex justify-content-center mb-3 bg-primary mr-5">
+              <div class="p-2 ">
+                <mat-form-field style="width: 50%">
+                  <input matInput type='name' [(ngModel)]="name" name='inputName' placeholder="Nombre" required>
+                </mat-form-field>
+                <mat-form-field style="width: 50%">
+                  <input matInput type='name' [(ngModel)]="lastname" name='inputLastName' placeholder="Apellido"
+                    required>
+                </mat-form-field>
+              </div>
+            </div>
+            <div class="d-flex justify-content-center mb-3 bg-primary mr-5">
+              <div class="p-2 ">
+                <mat-form-field class='midWdth'>
+                  <input matInput type='number' [(ngModel)]="age" name='inputAge' placeholder="edad" [min]=0 [max]=120>
+                </mat-form-field>
+              </div>
+            </div>
+            <div class="d-flex justify-content-center mb-3 bg-primary mr-5">
+              <div class="p-2 ">
+                <!-- select - Genero -->
+                <mat-form-field class="midWdth">
+                  <mat-select placeholder="Genero" [(ngModel)]="selectedValue" name="gender">
+                    <mat-option *ngFor="let gender of genders" [value]="gender.value">
+                      {{gender.viewValue}}
+                    </mat-option>
+                  </mat-select>
+                </mat-form-field>
+              </div>
+            </div>
+            <div class="d-flex justify-content-center mb-3 mr-5 ">
+              <div class="p-2 ">
+                <!-- Date and Time - Date and Time - Date and Time -  -->
+                <mat-form-field class="midWdth">
+                  <mat-datepicker-toggle matSuffix [for]="pickerBirthDate"></mat-datepicker-toggle>
+                  <input matInput placeholder="Fecha de Nacimiento" [matDatepicker]="pickerBirthDate" [(ngModel)]="dateField"
+                    name='birthDate'>
+                  <mat-datepicker #pickerBirthDate startView="multi-year" [startAt]="startBirthDate"></mat-datepicker>
+                </mat-form-field>
+              </div>
+
+            </div>
+            <div class='div-rounded'>
+              <mat-datepicker #picker></mat-datepicker>
+              <mat-datepicker-toggle [for]="picker"></mat-datepicker-toggle>
+              <input type="hidden" [matDatepicker]="picker">
+            </div>
+            <div>
+              <button mat-button matStepperNext>Siguiente</button>
+            </div>
+          </div>
+        </mat-step>
+
+      </div>
+      <mat-step label="Direccion de residencia (Provincia/Distrito/Corregimiento)">
+        <div style='text-align: left'>
+          (Provincia/Distrito/Corregimiento)
+        </div>
+        <!-- General Info - div -->
+        <div class="container mt-3" style="border: 2px solid gold;">
+          <div class="d-flex justify-content-center mb-3 mr-5">
+            <div class="p-2 ">
+              <mat-form-field class="midWdth">
+                <mat-select [(ngModel)]="selectedProv" (selectionChange)='onSelectedProvince($event)' name='provincesSelect'
+                  placeholder="Provincia">
+                  <mat-option *ngFor="let item of provincesJSON" [value]='item.name'>
+                    {{ item.name }}
+                  </mat-option>
+                </mat-select>
+              </mat-form-field>
+            </div>
+          </div>
+          <div class="d-flex justify-content-center mb-3 mr-5">
+            <div class="p-2 ">
+              <mat-form-field *ngIf='selectedProv' class="midWdth">
+                <mat-select [(ngModel)]="selectedDistrict" (selectionChange)='onSelectedDistrict($event)' placeholder="Distrito"
+                  name='District'>
+                  <mat-option *ngFor="let distrito of provinceDistricts" [value]='distrito.name'>
+                    {{ distrito.name }}
+                  </mat-option>
+                </mat-select>
+              </mat-form-field>
+            </div>
+          </div>
+          <div class="d-flex justify-content-center mb-3 mr-5">
+            <div class="p-2 ">
+              <mat-form-field *ngIf='selectedDistrict && selectedProv' class="midWdth">
+                <mat-select [(ngModel)]="selectedCity" (selectionChange)='onSelectedCity($event)' placeholder="Corregimiento"
+                  name='Corr'>
+                  <mat-option *ngFor="let city of provinceCityArray" [value]="city.name">
+                    {{ city.name }}
+                  </mat-option>
+                </mat-select>
+              </mat-form-field>
+            </div>
+          </div>
+          <div>
+            <button mat-button matStepperPrevious>Back</button>
+            <button mat-button matStepperNext>Next</button>
+          </div>
+        </div>
+      </mat-step>
+      <mat-step label="Step 3">
+        <!-- General Info - div -->
+        <div class="d-flex justify-content-center mb-3 mr-5 ">
+          <div class="p-2 ">
+            <ngb-timepicker [(ngModel)]="timePick" [meridian]="meridian"></ngb-timepicker>
+            <!-- <button class="btn btn-sm btn-outline-{{meridian ? 'success' : 'danger'}}" (click)="toggleMeridian()">
+                Meridian - {{meridian ? "ON" : "OFF"}}
+              </button> -->
+            <hr>
+            <pre>Selected time: {{timePick | json}}</pre>
+          </div>
+        </div>
+        <div class="d-flex justify-content-center mb-3 mr-5 ">
+          <div class="p-2 ">
+            <p>Simple datepicker</p>
+            <ngb-datepicker #dp [(ngModel)]="model" (navigate)="model = $event.next"></ngb-datepicker>
+            <hr />
+            <button class="btn btn-sm btn-outline-primary mr-2" (click)="selectToday()">Select Today</button>
+            <button class="btn btn-sm btn-outline-primary mr-2" (click)="dp.navigateTo()">To current month</button>
+            <button class="btn btn-sm btn-outline-primary mr-2" (click)="dp.navigateTo({year: 2013, month: 2})">To
+              Feb
+              2013</button>
+            <hr />
+            <!-- <pre>Month: {{ date.month }}.{{ date.year }}</pre> -->
+            <pre>Model: {{ model | json }}</pre>
+          </div>
+        </div>
+      </mat-step>
+      <mat-step label="Step 4">
+        Content 4
+      </mat-step>
+      <mat-step label="Step 5">
+        Content 5
+      </mat-step>
+    </mat-vertical-stepper>
+  </div>
+
+
+  <div class='div-listForm fancyBG01'>
+    <ol>
+      <li>
+        <div class='div-inline'>Edad:</div> {{ age }}
+      </li>
+      <li>
+        <div class='div-inline'>Nombre:</div> {{ name }} {{ lastname }}
+      </li>
+      <li>
+        <div class='div-inline'>Tiempo:</div> {{ timePick.hour }}: {{ timePick.minute}}
+      </li>
+      <li>
+        <!-- <div class='div-inline'>Fecha de Nac.:</div> {{ dateField.getDay() }} {{ dateField.getMonth() }} {{ dateField.getFullYear() }} -->
+        <div class='div-inline'>Fecha de Nac.:</div> {{ dateField }}
+      </li>
+      <li>
+        <!-- <div class='div-inline'>Fecha:</div>  {{ date.month }} {{ date.year }} + {{ date.day}} -->
+      </li>
+      <li>
+        <div class='div-inline'>Genero:</div> {{ selectedValue }}
+      </li>
+      <li>
+        <div class='div-inline'>radioButton:</div> {{ favoriteSeason }}
+      </li>
+      <li>
+        <div class='div-inline'>Provincia:</div> {{ selectedProv }}
+      </li>
+      <li>
+        <div class='div-inline'>Distrito:</div> {{ selectedDistrict }}
+      </li>
+      <li>
+        <div class='div-inline'>Corregimiento:</div> {{ selectedCity }}
+      </li>
+      <li>
+        <div class='div-inline'>Comentario Adicional:</div> {{ inputComment }}
+      </li>
+      <li>
+        <div class='div-inline'>Otra Fecha:</div> {{ dateField | date : "fullDate " }}
+      </li>
+    </ol>
+  </div>
+
+  <div class='matGridShit fancyBG01'>
+    <mat-grid-list cols="3" rowHeight="30px">
+      <mat-grid-tile *ngFor='let item of provincesJSON' class="matGridTile">
+        {{item.name}}
+      </mat-grid-tile>
+    </mat-grid-list>
+  </div>
+
+
+</div>
