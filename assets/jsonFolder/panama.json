@@ -1,0 +1,6044 @@
+[{
+    "provincia": "BOCAS DEL TORO",
+    "superficie": "4657.17",
+    "pop10": "125461.00",
+    "den10": "26.94",
+    "capital": "Bocas del Toro",
+    "Distritos": [{
+        "provincia": "BOCAS DEL TORO",
+        "distrito": "Bocas del Toro",
+        "superficie": "430.67",
+        "pop10": "16135.00",
+        "den10": "37.46",
+        "capital": "Bocas del Toro"
+      },
+      {
+        "provincia": "BOCAS DEL TORO",
+        "distrito": "Bocas del Toro",
+        "corregimiento": "Bocas del Toro",
+        "superficie": "67.31",
+        "pop10": "7366.00",
+        "den10": "109.44"
+      },
+      {
+        "provincia": "BOCAS DEL TORO",
+        "distrito": "Bocas del Toro",
+        "corregimiento": "Bastimentos",
+        "superficie": "62.24",
+        "pop10": "1954.00",
+        "den10": "31.39"
+      },
+      {
+        "provincia": "BOCAS DEL TORO",
+        "distrito": "Bocas del Toro",
+        "corregimiento": "Cauchero",
+        "superficie": "140.58",
+        "pop10": "2424.00",
+        "den10": "17.24"
+      },
+      {
+        "provincia": "BOCAS DEL TORO",
+        "distrito": "Bocas del Toro",
+        "corregimiento": "Punta Laurel",
+        "superficie": "71.95",
+        "pop10": "1730.00",
+        "den10": "24.05"
+      },
+      {
+        "provincia": "BOCAS DEL TORO",
+        "distrito": "Bocas del Toro",
+        "corregimiento": "Tierra Oscura",
+        "superficie": "88.59",
+        "pop10": "2661.00",
+        "den10": "30.04"
+      }
+    ]
+
+  },
+  {
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "Changuinola",
+    "superficie": "4016.48",
+    "pop10": "98310.00",
+    "den10": "24.48",
+    "capital": "Changuinola"
+  },
+  {
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "Changuinola",
+    "corregimiento": "Changuinola",
+    "superficie": "96.66",
+    "pop10": "31223.00",
+    "den10": "323.03"
+  },
+  {
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "Changuinola",
+    "corregimiento": "Almirante",
+    "superficie": "95.36",
+    "pop10": "12731.00",
+    "den10": "133.51"
+  },
+  {
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "Changuinola",
+    "corregimiento": "Guabito",
+    "superficie": "168.78",
+    "pop10": "8387.00",
+    "den10": "49.69"
+  },
+  {
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "Changuinola",
+    "corregimiento": "Teribe",
+    "superficie": "858.46",
+    "pop10": "2578.00",
+    "den10": "03.00"
+  },
+  {
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "Changuinola",
+    "corregimiento": "Valle del Risco",
+    "superficie": "576.79",
+    "pop10": "4187.00",
+    "den10": "07.26"
+  },
+  {
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "Changuinola",
+    "corregimiento": "El Empalme",
+    "superficie": "79.49",
+    "pop10": "18653.00",
+    "den10": "234.66"
+  },
+  {
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "Changuinola",
+    "corregimiento": "Las Tablas",
+    "superficie": "97.31",
+    "pop10": "9286.00",
+    "den10": "95.43"
+  },
+  {
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "Changuinola",
+    "corregimiento": "Cochigró",
+    "superficie": "548.89",
+    "pop10": "1812.00",
+    "den10": "03.30"
+  },
+  {
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "Changuinola",
+    "corregimiento": "La Gloria",
+    "superficie": "165.18",
+    "pop10": "3046.00",
+    "den10": "18.44"
+  },
+  {
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "Changuinola",
+    "corregimiento": "Las Delicias",
+    "superficie": "206.86",
+    "pop10": "1484.00",
+    "den10": "07.17"
+  },
+  {
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "Changuinola",
+    "corregimiento": "Nance del Risco",
+    "superficie": "1052.41",
+    "pop10": "1760.00",
+    "den10": "01.67"
+  },
+  {
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "Changuinola",
+    "corregimiento": "Valle de Agua Arriba",
+    "superficie": "70.29",
+    "pop10": "3163.00",
+    "den10": "45.00"
+  },
+  {
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "Chiriquí Grande",
+    "superficie": "210.02",
+    "pop10": "11016.00",
+    "den10": "52.45",
+    "capital": "Chiriquí Grande"
+  },
+  {
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "Chiriquí Grande",
+    "corregimiento": "Chiriquí Grande",
+    "superficie": "58.84",
+    "pop10": "3014.00",
+    "den10": "51.22"
+  },
+  {
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "Chiriquí Grande",
+    "corregimiento": "Miramar",
+    "superficie": "26.89",
+    "pop10": "1232.00",
+    "den10": "45.81"
+  },
+  {
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "Chiriquí Grande",
+    "corregimiento": "Punta Peña",
+    "superficie": "19.38",
+    "pop10": "2520.00",
+    "den10": "130.03"
+  },
+  {
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "Chiriquí Grande",
+    "corregimiento": "Punta Robalo",
+    "superficie": "50.97",
+    "pop10": "1164.00",
+    "den10": "22.84"
+  },
+  {
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "Chiriquí Grande",
+    "corregimiento": "Rambala",
+    "superficie": "33.56",
+    "pop10": "1682.00",
+    "den10": "50.13"
+  },
+  {
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "Chiriquí Grande",
+    "corregimiento": "Bajo Cedro",
+    "superficie": "20.38",
+    "pop10": "1404.00",
+    "den10": "68.89"
+  },
+  {
+    "provincia": "COCLÉ",
+    "superficie": "4946.63",
+    "pop10": "233708.00",
+    "den10": "47.25",
+    "capital": "Penonomé"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Aguadulce",
+    "superficie": "469.30",
+    "pop10": "43360.00",
+    "den10": "92.39",
+    "capital": "Aguadulce"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Aguadulce",
+    "corregimiento": "Aguadulce",
+    "superficie": "50.45",
+    "pop10": "8703.00",
+    "den10": "172.52"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Aguadulce",
+    "corregimiento": "El Cristo",
+    "superficie": "113.02",
+    "pop10": "4017.00",
+    "den10": "35.54"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Aguadulce",
+    "corregimiento": "El Roble",
+    "superficie": "218.81",
+    "pop10": "8369.00",
+    "den10": "38.25"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Aguadulce",
+    "corregimiento": "Pocrí",
+    "superficie": "22.50",
+    "pop10": "12881.00",
+    "den10": "572.52"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Aguadulce",
+    "corregimiento": "Barrios Unidos",
+    "superficie": "64.52",
+    "pop10": "9390.00",
+    "den10": "145.53"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Antón",
+    "superficie": "747.81",
+    "pop10": "54632.00",
+    "den10": "73.06",
+    "capital": "Antón"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Antón",
+    "corregimiento": "Antón",
+    "superficie": "106.34",
+    "pop10": "9790.00",
+    "den10": "92.06"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Antón",
+    "corregimiento": "Cabuya",
+    "superficie": "60.59",
+    "pop10": "2119.00",
+    "den10": "34.97"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Antón",
+    "corregimiento": "El Chirú",
+    "superficie": "113.59",
+    "pop10": "3623.00",
+    "den10": "31.89"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Antón",
+    "corregimiento": "El Retiro",
+    "superficie": "66.08",
+    "pop10": "2303.00",
+    "den10": "34.85"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Antón",
+    "corregimiento": "El Valle",
+    "superficie": "34.78",
+    "pop10": "7602.00",
+    "den10": "218.57"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Antón",
+    "corregimiento": "Juan Díaz",
+    "superficie": "85.61",
+    "pop10": "2634.00",
+    "den10": "30.77"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Antón",
+    "corregimiento": "Río Hato",
+    "superficie": "140.01",
+    "pop10": "15701.00",
+    "den10": "112.14"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Antón",
+    "corregimiento": "San Juan de Dios",
+    "superficie": "55.73",
+    "pop10": "4797.00",
+    "den10": "86.08"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Antón",
+    "corregimiento": "Santa Rita",
+    "superficie": "43.52",
+    "pop10": "2562.00",
+    "den10": "58.86"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Antón",
+    "corregimiento": "Caballero",
+    "superficie": "41.55",
+    "pop10": "3501.00",
+    "den10": "84.26"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "La Pintada",
+    "superficie": "1029.99",
+    "pop10": "25639.00",
+    "den10": "24.89",
+    "capital": "La Pintada"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "La Pintada",
+    "corregimiento": "La Pintada",
+    "superficie": "84.55",
+    "pop10": "3882.00",
+    "den10": "45.91"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "La Pintada",
+    "corregimiento": "El Harino",
+    "superficie": "252.13",
+    "pop10": "5455.00",
+    "den10": "21.64"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "La Pintada",
+    "corregimiento": "El Potrero",
+    "superficie": "73.93",
+    "pop10": "3165.00",
+    "den10": "42.81"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "La Pintada",
+    "corregimiento": "Llano Grande",
+    "superficie": "395.49",
+    "pop10": "6901.00",
+    "den10": "17.45"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "La Pintada",
+    "corregimiento": "Piedras Gordas",
+    "superficie": "137.81",
+    "pop10": "4164.00",
+    "den10": "30.22"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "La Pintada",
+    "corregimiento": "Las Lomas",
+    "superficie": "86.08",
+    "pop10": "2072.00",
+    "den10": "24.07"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Natá",
+    "superficie": "605.23",
+    "pop10": "18465.00",
+    "den10": "30.51",
+    "capital": "Natá"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Natá",
+    "corregimiento": "Natá",
+    "superficie": "174.71",
+    "pop10": "6003.00",
+    "den10": "34.36"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Natá",
+    "corregimiento": "Capellanía",
+    "superficie": "102.31",
+    "pop10": "4512.00",
+    "den10": "44.10"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Natá",
+    "corregimiento": "El Caño",
+    "superficie": "86.05",
+    "pop10": "3351.00",
+    "den10": "38.94"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Natá",
+    "corregimiento": "Guzmán",
+    "superficie": "66.13",
+    "pop10": "943.00",
+    "den10": "14.26"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Natá",
+    "corregimiento": "Las Huacas",
+    "superficie": "90.18",
+    "pop10": "1585.00",
+    "den10": "17.58"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Natá",
+    "corregimiento": "Toza",
+    "superficie": "85.85",
+    "pop10": "2071.00",
+    "den10": "24.12"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Olá",
+    "superficie": "385.72",
+    "pop10": "5875.00",
+    "den10": "15.23",
+    "capital": "Olá"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Olá",
+    "corregimiento": "Olá",
+    "superficie": "80.67",
+    "pop10": "1419.00",
+    "den10": "17.59"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Olá",
+    "corregimiento": "El Copé",
+    "superficie": "76.70",
+    "pop10": "1425.00",
+    "den10": "18.58"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Olá",
+    "corregimiento": "El Palmar",
+    "superficie": "111.34",
+    "pop10": "1256.00",
+    "den10": "11.28"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Olá",
+    "corregimiento": "El Picacho",
+    "superficie": "29.70",
+    "pop10": "331.00",
+    "den10": "11.15"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Olá",
+    "corregimiento": "La Pava",
+    "superficie": "87.32",
+    "pop10": "1444.00",
+    "den10": "16.54"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Penonomé",
+    "superficie": "1708.57",
+    "pop10": "85737.00",
+    "den10": "50.18",
+    "capital": "Penonomé"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Penonomé",
+    "corregimiento": "Penonomé",
+    "superficie": "52.96",
+    "pop10": "21748.00",
+    "den10": "410.68"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Penonomé",
+    "corregimiento": "Cañaveral",
+    "superficie": "63.78",
+    "pop10": "7517.00",
+    "den10": "117.85"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Penonomé",
+    "corregimiento": "Coclé",
+    "superficie": "115.03",
+    "pop10": "4100.00",
+    "den10": "35.64"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Penonomé",
+    "corregimiento": "Chiguirí Arriba",
+    "superficie": "202.87",
+    "pop10": "10018.00",
+    "den10": "49.38"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Penonomé",
+    "corregimiento": "El Coco",
+    "superficie": "146.29",
+    "pop10": "5605.00",
+    "den10": "38.31"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Penonomé",
+    "corregimiento": "Pajonal",
+    "superficie": "145.15",
+    "pop10": "13565.00",
+    "den10": "93.46"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Penonomé",
+    "corregimiento": "Río Grande",
+    "superficie": "93.22",
+    "pop10": "3117.00",
+    "den10": "33.44"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Penonomé",
+    "corregimiento": "Río Indio",
+    "superficie": "297.54",
+    "pop10": "5240.00",
+    "den10": "17.61"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Penonomé",
+    "corregimiento": "Toabré",
+    "superficie": "399.52",
+    "pop10": "10203.00",
+    "den10": "25.54"
+  },
+  {
+    "provincia": "COCLÉ",
+    "distrito": "Penonomé",
+    "corregimiento": "Tulú",
+    "superficie": "192.21",
+    "pop10": "4624.00",
+    "den10": "24.06"
+  },
+  {
+    "provincia": "COLÓN",
+    "superficie": "4575.49",
+    "pop10": "241928.00",
+    "den10": "52.87",
+    "capital": "Colón"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Colón",
+    "superficie": "1179.95",
+    "pop10": "206553.00",
+    "den10": "175.05",
+    "capital": "Barrio Norte"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Colón",
+    "corregimiento": "Barrio Norte",
+    "superficie": "01.18",
+    "pop10": "20579.00",
+    "den10": "17413.27"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Colón",
+    "corregimiento": "Barrio Sur",
+    "superficie": "01.22",
+    "pop10": "14076.00",
+    "den10": "11539.60"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Colón",
+    "corregimiento": "Buena Vista",
+    "superficie": "114.47",
+    "pop10": "14285.00",
+    "den10": "124.80"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Colón",
+    "corregimiento": "Cativá",
+    "superficie": "23.12",
+    "pop10": "34558.00",
+    "den10": "1494.51"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Colón",
+    "corregimiento": "Ciricito",
+    "superficie": "64.29",
+    "pop10": "2900.00",
+    "den10": "45.10"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Colón",
+    "corregimiento": "Cristóbal",
+    "superficie": "428.49",
+    "pop10": "49422.00",
+    "den10": "115.34"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Colón",
+    "corregimiento": "Escobal",
+    "superficie": "81.34",
+    "pop10": "2388.00",
+    "den10": "29.36"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Colón",
+    "corregimiento": "Limón",
+    "superficie": "74.84",
+    "pop10": "4665.00",
+    "den10": "62.33"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Colón",
+    "corregimiento": "Nueva Providencia",
+    "superficie": "17.33",
+    "pop10": "5813.00",
+    "den10": "335.41"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Colón",
+    "corregimiento": "Puerto Pilón",
+    "superficie": "99.64",
+    "pop10": "16517.00",
+    "den10": "165.77"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Colón",
+    "corregimiento": "Sabanitas",
+    "superficie": "11.57",
+    "pop10": "19052.00",
+    "den10": "1646.17"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Colón",
+    "corregimiento": "Salamanca",
+    "superficie": "194.37",
+    "pop10": "3881.00",
+    "den10": "19.97"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Colón",
+    "corregimiento": "San Juan",
+    "superficie": "41.25",
+    "pop10": "17430.00",
+    "den10": "422.59"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Colón",
+    "corregimiento": "Santa Rosa",
+    "superficie": "26.84",
+    "pop10": "987.00",
+    "den10": "36.77"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Chagres",
+    "superficie": "445.36",
+    "pop10": "10003.00",
+    "den10": "22.46",
+    "capital": "Nuevo Chagres"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Chagres",
+    "corregimiento": "Nuevo Chagres",
+    "superficie": "05.87",
+    "pop10": "499.00",
+    "den10": "85.07"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Chagres",
+    "corregimiento": "Achiote",
+    "superficie": "40.32",
+    "pop10": "771.00",
+    "den10": "19.12"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Chagres",
+    "corregimiento": "El Guabo",
+    "superficie": "53.33",
+    "pop10": "1330.00",
+    "den10": "24.94"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Chagres",
+    "corregimiento": "La Encantada",
+    "superficie": "134.54",
+    "pop10": "2561.00",
+    "den10": "19.04"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Chagres",
+    "corregimiento": "Palmas Bellas",
+    "superficie": "75.88",
+    "pop10": "1844.00",
+    "den10": "24.30"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Chagres",
+    "corregimiento": "Piña",
+    "superficie": "29.26",
+    "pop10": "836.00",
+    "den10": "28.58"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Chagres",
+    "corregimiento": "Salud",
+    "superficie": "106.17",
+    "pop10": "2162.00",
+    "den10": "20.36"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Donoso",
+    "superficie": "1826.09",
+    "pop10": "12810.00",
+    "den10": "07.01",
+    "capital": "Miguel de la Borda"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Donoso",
+    "corregimiento": "Miguel de la Borda",
+    "superficie": "318.07",
+    "pop10": "2326.00",
+    "den10": "07.31"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Donoso",
+    "corregimiento": "Coclé del Norte",
+    "superficie": "929.94",
+    "pop10": "3555.00",
+    "den10": "03.82"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Donoso",
+    "corregimiento": "El Guásimo",
+    "superficie": "290.97",
+    "pop10": "2843.00",
+    "den10": "09.77"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Donoso",
+    "corregimiento": "Gobea",
+    "superficie": "52.13",
+    "pop10": "794.00",
+    "den10": "15.23"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Donoso",
+    "corregimiento": "Río Indio",
+    "superficie": "36.37",
+    "pop10": "1044.00",
+    "den10": "28.70"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Donoso",
+    "corregimiento": "San José del General",
+    "superficie": "198.61",
+    "pop10": "2248.00",
+    "den10": "11.32"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Portobelo",
+    "superficie": "396.90",
+    "pop10": "9126.00",
+    "den10": "22.99",
+    "capital": "Portobelo"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Portobelo",
+    "corregimiento": "Portobelo",
+    "superficie": "244.72",
+    "pop10": "4559.00",
+    "den10": "18.63"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Portobelo",
+    "corregimiento": "Cacique",
+    "superficie": "11.37",
+    "pop10": "246.00",
+    "den10": "21.63"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Portobelo",
+    "corregimiento": "Puerto Lindo o Garrote",
+    "superficie": "23.74",
+    "pop10": "869.00",
+    "den10": "36.61"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Portobelo",
+    "corregimiento": "Isla Grande",
+    "superficie": "26.59",
+    "pop10": "1037.00",
+    "den10": "39.01"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Portobelo",
+    "corregimiento": "María Chiquita",
+    "superficie": "90.49",
+    "pop10": "2415.00",
+    "den10": "26.69"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Santa Isabel",
+    "superficie": "727.18",
+    "pop10": "3436.00",
+    "den10": "04.73",
+    "capital": "Palenque"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Santa Isabel",
+    "corregimiento": "Palenque",
+    "superficie": "62.76",
+    "pop10": "404.00",
+    "den10": "06.44"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Santa Isabel",
+    "corregimiento": "Cuango",
+    "superficie": "37.86",
+    "pop10": "442.00",
+    "den10": "11.68"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Santa Isabel",
+    "corregimiento": "Miramar",
+    "superficie": "18.48",
+    "pop10": "201.00",
+    "den10": "10.88"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Santa Isabel",
+    "corregimiento": "Nombre de Dios",
+    "superficie": "143.51",
+    "pop10": "1130.00",
+    "den10": "07.87"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Santa Isabel",
+    "corregimiento": "Palmira",
+    "superficie": "176.89",
+    "pop10": "319.00",
+    "den10": "01.80"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Santa Isabel",
+    "corregimiento": "Playa Chiquita",
+    "superficie": "117.49",
+    "pop10": "169.00",
+    "den10": "01.44"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Santa Isabel",
+    "corregimiento": "Santa Isabel",
+    "superficie": "130.85",
+    "pop10": "284.00",
+    "den10": "02.17"
+  },
+  {
+    "provincia": "COLÓN",
+    "distrito": "Santa Isabel",
+    "corregimiento": "Viento Frío",
+    "superficie": "39.35",
+    "pop10": "487.00",
+    "den10": "12.38"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "superficie": "6490.89",
+    "pop10": "416873.00",
+    "den10": "64.22",
+    "capital": "David"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Alanje",
+    "superficie": "443.35",
+    "pop10": "16508.00",
+    "den10": "37.23",
+    "capital": "Alanje"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Alanje",
+    "corregimiento": "Alanje",
+    "superficie": "21.43",
+    "pop10": "2406.00",
+    "den10": "112.29"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Alanje",
+    "corregimiento": "Divalá",
+    "superficie": "71.99",
+    "pop10": "3457.00",
+    "den10": "48.02"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Alanje",
+    "corregimiento": "El Tejar",
+    "superficie": "36.52",
+    "pop10": "1961.00",
+    "den10": "53.70"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Alanje",
+    "corregimiento": "Guarumal",
+    "superficie": "83.27",
+    "pop10": "2418.00",
+    "den10": "29.04"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Alanje",
+    "corregimiento": "Palo Grande",
+    "superficie": "40.98",
+    "pop10": "578.00",
+    "den10": "14.10"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Alanje",
+    "corregimiento": "Querévalo",
+    "superficie": "34.46",
+    "pop10": "1751.00",
+    "den10": "50.81"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Alanje",
+    "corregimiento": "Santo Tomás",
+    "superficie": "45.14",
+    "pop10": "1259.00",
+    "den10": "27.89"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Alanje",
+    "corregimiento": "Canta Gallo",
+    "superficie": "36.93",
+    "pop10": "577.00",
+    "den10": "15.62"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Alanje",
+    "corregimiento": "Nuevo México",
+    "superficie": "72.62",
+    "pop10": "2101.00",
+    "den10": "28.93"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Barú",
+    "superficie": "595.00",
+    "pop10": "55775.00",
+    "den10": "93.74",
+    "capital": "Puerto Armuelles"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Barú",
+    "corregimiento": "Puerto Armuelles",
+    "superficie": "222.48",
+    "pop10": "20455.00",
+    "den10": "91.94"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Barú",
+    "corregimiento": "Limones",
+    "superficie": "53.79",
+    "pop10": "1040.00",
+    "den10": "19.34"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Barú",
+    "corregimiento": "Progreso",
+    "superficie": "55.62",
+    "pop10": "11402.00",
+    "den10": "205.00"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Barú",
+    "corregimiento": "Baco",
+    "superficie": "75.90",
+    "pop10": "7334.00",
+    "den10": "96.63"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Barú",
+    "corregimiento": "Rodolfo Aguilar Delgado",
+    "superficie": "187.22",
+    "pop10": "15544.00",
+    "den10": "83.03"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Boquerón",
+    "superficie": "295.27",
+    "pop10": "15029.00",
+    "den10": "50.90",
+    "capital": "Boquerón"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Boquerón",
+    "corregimiento": "Boquerón",
+    "superficie": "39.95",
+    "pop10": "3881.00",
+    "den10": "97.15"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Boquerón",
+    "corregimiento": "Bágala",
+    "superficie": "42.88",
+    "pop10": "2330.00",
+    "den10": "54.33"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Boquerón",
+    "corregimiento": "Cordillera",
+    "superficie": "49.27",
+    "pop10": "590.00",
+    "den10": "11.97"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Boquerón",
+    "corregimiento": "Guabal",
+    "superficie": "32.09",
+    "pop10": "884.00",
+    "den10": "27.55"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Boquerón",
+    "corregimiento": "Guayabal",
+    "superficie": "57.28",
+    "pop10": "2111.00",
+    "den10": "36.85"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Boquerón",
+    "corregimiento": "Paraíso",
+    "superficie": "36.45",
+    "pop10": "429.00",
+    "den10": "11.77"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Boquerón",
+    "corregimiento": "Pedregal",
+    "superficie": "19.81",
+    "pop10": "2134.00",
+    "den10": "107.74"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Boquerón",
+    "corregimiento": "Tijeras",
+    "superficie": "17.54",
+    "pop10": "2670.00",
+    "den10": "152.21"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Boquete",
+    "superficie": "488.42",
+    "pop10": "21370.00",
+    "den10": "43.75",
+    "capital": "Bajo Boquete"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Boquete",
+    "corregimiento": "Bajo Boquete",
+    "superficie": "18.23",
+    "pop10": "4493.00",
+    "den10": "246.50"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Boquete",
+    "corregimiento": "Caldera",
+    "superficie": "147.00",
+    "pop10": "1560.00",
+    "den10": "10.61"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Boquete",
+    "corregimiento": "Palmira",
+    "superficie": "57.47",
+    "pop10": "1776.00",
+    "den10": "30.90"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Boquete",
+    "corregimiento": "Alto Boquete",
+    "superficie": "89.36",
+    "pop10": "6290.00",
+    "den10": "70.39"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Boquete",
+    "corregimiento": "Jaramillo",
+    "superficie": "77.46",
+    "pop10": "2655.00",
+    "den10": "34.28"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Boquete",
+    "corregimiento": "Los Naranjos",
+    "superficie": "98.90",
+    "pop10": "4596.00",
+    "den10": "46.47"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Bugaba",
+    "superficie": "879.91",
+    "pop10": "78209.00",
+    "den10": "88.88",
+    "capital": "La Concepción"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Bugaba",
+    "corregimiento": "La Concepción",
+    "superficie": "66.90",
+    "pop10": "21356.00",
+    "den10": "319.21"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Bugaba",
+    "corregimiento": "Aserrío de Gariché",
+    "superficie": "98.78",
+    "pop10": "11072.00",
+    "den10": "112.09"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Bugaba",
+    "corregimiento": "Bugaba",
+    "superficie": "12.88",
+    "pop10": "3718.00",
+    "den10": "288.58"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Bugaba",
+    "corregimiento": "Cerro Punta",
+    "superficie": "105.06",
+    "pop10": "7754.00",
+    "den10": "73.81"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Bugaba",
+    "corregimiento": "Gómez",
+    "superficie": "40.83",
+    "pop10": "2702.00",
+    "den10": "66.18"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Bugaba",
+    "corregimiento": "La Estrella",
+    "superficie": "51.85",
+    "pop10": "4665.00",
+    "den10": "89.96"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Bugaba",
+    "corregimiento": "San Andrés",
+    "superficie": "65.24",
+    "pop10": "2523.00",
+    "den10": "38.67"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Bugaba",
+    "corregimiento": "Santa Marta",
+    "superficie": "30.42",
+    "pop10": "3679.00",
+    "den10": "120.93"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Bugaba",
+    "corregimiento": "Santa Rosa",
+    "superficie": "48.04",
+    "pop10": "1510.00",
+    "den10": "31.43"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Bugaba",
+    "corregimiento": "Santo Domingo",
+    "superficie": "50.93",
+    "pop10": "2625.00",
+    "den10": "51.54"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Bugaba",
+    "corregimiento": "Sortová",
+    "superficie": "33.43",
+    "pop10": "2440.00",
+    "den10": "72.99"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Bugaba",
+    "corregimiento": "Volcán",
+    "superficie": "233.67",
+    "pop10": "12717.00",
+    "den10": "54.42"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Bugaba",
+    "corregimiento": "El Bongo",
+    "superficie": "41.87",
+    "pop10": "1448.00",
+    "den10": "34.59"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "David",
+    "superficie": "868.37",
+    "pop10": "144858.00",
+    "den10": "166.82",
+    "capital": "David"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "David",
+    "corregimiento": "David",
+    "superficie": "66.90",
+    "pop10": "82907.00",
+    "den10": "1239.20"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "David",
+    "corregimiento": "Bijagual",
+    "superficie": "84.01",
+    "pop10": "732.00",
+    "den10": "08.71"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "David",
+    "corregimiento": "Cochea",
+    "superficie": "58.76",
+    "pop10": "2447.00",
+    "den10": "41.65"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "David",
+    "corregimiento": "Chiriquí",
+    "superficie": "205.12",
+    "pop10": "4269.00",
+    "den10": "20.81"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "David",
+    "corregimiento": "Guacá",
+    "superficie": "69.19",
+    "pop10": "1891.00",
+    "den10": "27.33"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "David",
+    "corregimiento": "Las Lomas",
+    "superficie": "76.57",
+    "pop10": "18769.00",
+    "den10": "245.13"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "David",
+    "corregimiento": "Pedregal",
+    "superficie": "144.37",
+    "pop10": "17516.00",
+    "den10": "121.33"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "David",
+    "corregimiento": "San Carlos",
+    "superficie": "44.67",
+    "pop10": "4487.00",
+    "den10": "100.44"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "David",
+    "corregimiento": "San Pablo Nuevo",
+    "superficie": "58.98",
+    "pop10": "1752.00",
+    "den10": "29.71"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "David",
+    "corregimiento": "San Pablo Viejo",
+    "superficie": "59.80",
+    "pop10": "10088.00",
+    "den10": "168.69"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Dolega",
+    "superficie": "250.82",
+    "pop10": "25102.00",
+    "den10": "100.08",
+    "capital": "Dolega"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Dolega",
+    "corregimiento": "Dolega",
+    "superficie": "26.78",
+    "pop10": "4074.00",
+    "den10": "152.13"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Dolega",
+    "corregimiento": "Dos Ríos",
+    "superficie": "18.11",
+    "pop10": "1634.00",
+    "den10": "90.21"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Dolega",
+    "corregimiento": "Los Anastacios",
+    "superficie": "10.83",
+    "pop10": "3236.00",
+    "den10": "298.88"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Dolega",
+    "corregimiento": "Potrerillos",
+    "superficie": "55.43",
+    "pop10": "1562.00",
+    "den10": "28.18"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Dolega",
+    "corregimiento": "Potrerillos Abajo",
+    "superficie": "33.84",
+    "pop10": "1815.00",
+    "den10": "53.64"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Dolega",
+    "corregimiento": "Rovira",
+    "superficie": "46.40",
+    "pop10": "1925.00",
+    "den10": "41.48"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Dolega",
+    "corregimiento": "Tinajas",
+    "superficie": "29.40",
+    "pop10": "1530.00",
+    "den10": "52.04"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Dolega",
+    "corregimiento": "Los Algarrobos",
+    "superficie": "30.03",
+    "pop10": "9326.00",
+    "den10": "310.60"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Gualaca",
+    "superficie": "625.52",
+    "pop10": "9750.00",
+    "den10": "15.59",
+    "capital": "Gualaca"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Gualaca",
+    "corregimiento": "Gualaca",
+    "superficie": "237.33",
+    "pop10": "5605.00",
+    "den10": "23.62"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Gualaca",
+    "corregimiento": "Hornito",
+    "superficie": "179.27",
+    "pop10": "1230.00",
+    "den10": "06.86"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Gualaca",
+    "corregimiento": "Los Angeles",
+    "superficie": "79.92",
+    "pop10": "715.00",
+    "den10": "08.95"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Gualaca",
+    "corregimiento": "Paja de Sombrero",
+    "superficie": "62.72",
+    "pop10": "653.00",
+    "den10": "10.41"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Gualaca",
+    "corregimiento": "Rincón",
+    "superficie": "66.29",
+    "pop10": "1547.00",
+    "den10": "23.34"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Remedios",
+    "superficie": "166.79",
+    "pop10": "4052.00",
+    "den10": "24.29",
+    "capital": "Remedios"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Remedios",
+    "corregimiento": "Remedios",
+    "superficie": "43.47",
+    "pop10": "908.00",
+    "den10": "20.89"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Remedios",
+    "corregimiento": "El Nancito",
+    "superficie": "35.44",
+    "pop10": "607.00",
+    "den10": "17.13"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Remedios",
+    "corregimiento": "El Porvenir",
+    "superficie": "28.14",
+    "pop10": "1325.00",
+    "den10": "47.09"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Remedios",
+    "corregimiento": "El Puerto",
+    "superficie": "34.44",
+    "pop10": "720.00",
+    "den10": "20.91"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Remedios",
+    "corregimiento": "Santa Lucia",
+    "superficie": "25.31",
+    "pop10": "492.00",
+    "den10": "19.44"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Renacimiento",
+    "superficie": "529.02",
+    "pop10": "20524.00",
+    "den10": "38.80",
+    "capital": "Río Sereno"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Renacimiento",
+    "corregimiento": "Río Sereno",
+    "superficie": "83.19",
+    "pop10": "5463.00",
+    "den10": "65.67"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Renacimiento",
+    "corregimiento": "Breñon",
+    "superficie": "35.76",
+    "pop10": "755.00",
+    "den10": "21.11"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Renacimiento",
+    "corregimiento": "Cañas Gordas",
+    "superficie": "60.82",
+    "pop10": "3090.00",
+    "den10": "50.81"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Renacimiento",
+    "corregimiento": "Monte Lirio",
+    "superficie": "43.84",
+    "pop10": "2771.00",
+    "den10": "63.20"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Renacimiento",
+    "corregimiento": "Plaza Caisán",
+    "superficie": "96.13",
+    "pop10": "2901.00",
+    "den10": "30.18"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Renacimiento",
+    "corregimiento": "Santa Cruz",
+    "superficie": "59.82",
+    "pop10": "1904.00",
+    "den10": "31.83"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Renacimiento",
+    "corregimiento": "Dominical",
+    "superficie": "82.50",
+    "pop10": "998.00",
+    "den10": "12.10"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Renacimiento",
+    "corregimiento": "Santa Clara",
+    "superficie": "66.96",
+    "pop10": "2642.00",
+    "den10": "39.46"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "San Félix",
+    "superficie": "218.29",
+    "pop10": "6304.00",
+    "den10": "28.88",
+    "capital": "Las Lajas"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "San Félix",
+    "corregimiento": "Las Lajas",
+    "superficie": "54.18",
+    "pop10": "1521.00",
+    "den10": "28.07"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "San Félix",
+    "corregimiento": "Juay",
+    "superficie": "33.19",
+    "pop10": "654.00",
+    "den10": "19.70"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "San Félix",
+    "corregimiento": "Lajas Adentro",
+    "superficie": "19.57",
+    "pop10": "741.00",
+    "den10": "37.86"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "San Félix",
+    "corregimiento": "San Félix",
+    "superficie": "55.69",
+    "pop10": "2972.00",
+    "den10": "53.37"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "San Félix",
+    "corregimiento": "Santa Cruz",
+    "superficie": "55.66",
+    "pop10": "416.00",
+    "den10": "07.47"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "San Lorenzo",
+    "superficie": "647.81",
+    "pop10": "7507.00",
+    "den10": "11.59",
+    "capital": "Horconcitos"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "San Lorenzo",
+    "corregimiento": "Horconcitos",
+    "superficie": "73.12",
+    "pop10": "996.00",
+    "den10": "13.62"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "San Lorenzo",
+    "corregimiento": "Boca Chica",
+    "superficie": "88.01",
+    "pop10": "441.00",
+    "den10": "05.01"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "San Lorenzo",
+    "corregimiento": "Boca del Monte",
+    "superficie": "243.84",
+    "pop10": "2143.00",
+    "den10": "08.79"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "San Lorenzo",
+    "corregimiento": "San Juan",
+    "superficie": "106.08",
+    "pop10": "1637.00",
+    "den10": "15.43"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "San Lorenzo",
+    "corregimiento": "San Lorenzo",
+    "superficie": "136.76",
+    "pop10": "2290.00",
+    "den10": "16.74"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Tolé",
+    "superficie": "482.31",
+    "pop10": "11885.00",
+    "den10": "24.64",
+    "capital": "Tolé"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Tolé",
+    "corregimiento": "Tolé",
+    "superficie": "76.92",
+    "pop10": "3240.00",
+    "den10": "42.12"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Tolé",
+    "corregimiento": "Bella Vista",
+    "superficie": "38.04",
+    "pop10": "683.00",
+    "den10": "17.96"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Tolé",
+    "corregimiento": "Cerro Viejo",
+    "superficie": "59.51",
+    "pop10": "1768.00",
+    "den10": "29.71"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Tolé",
+    "corregimiento": "El Cristo",
+    "superficie": "31.35",
+    "pop10": "1500.00",
+    "den10": "47.85"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Tolé",
+    "corregimiento": "Justo Fidel Palacios",
+    "superficie": "25.79",
+    "pop10": "656.00",
+    "den10": "25.43"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Tolé",
+    "corregimiento": "Lajas de Tolé",
+    "superficie": "81.25",
+    "pop10": "847.00",
+    "den10": "10.42"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Tolé",
+    "corregimiento": "Potrero de Caña",
+    "superficie": "20.11",
+    "pop10": "337.00",
+    "den10": "16.76"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Tolé",
+    "corregimiento": "Quebrada de Piedra",
+    "superficie": "98.27",
+    "pop10": "1127.00",
+    "den10": "11.47"
+  },
+  {
+    "provincia": "CHIRIQUÍ",
+    "distrito": "Tolé",
+    "corregimiento": "Veladero",
+    "superficie": "51.05",
+    "pop10": "1727.00",
+    "den10": "33.83"
+  },
+  {
+    "provincia": "DARIÉN",
+    "superficie": "11892.48",
+    "pop10": "48378.00",
+    "den10": "04.07",
+    "capital": "La Palma"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Chepigana",
+    "superficie": "6991.09",
+    "pop10": "30110.00",
+    "den10": "04.31",
+    "capital": "La Palma"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Chepigana",
+    "corregimiento": "La Palma",
+    "superficie": "526.56",
+    "pop10": "4205.00",
+    "den10": "07.99"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Chepigana",
+    "corregimiento": "Camogantí",
+    "superficie": "460.97",
+    "pop10": "282.00",
+    "den10": "00.61"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Chepigana",
+    "corregimiento": "Chepigana",
+    "superficie": "381.85",
+    "pop10": "704.00",
+    "den10": "01.84"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Chepigana",
+    "corregimiento": "Garachiné",
+    "superficie": "188.53",
+    "pop10": "1878.00",
+    "den10": "09.96"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Chepigana",
+    "corregimiento": "Jaqué",
+    "superficie": "1043.91",
+    "pop10": "2386.00",
+    "den10": "02.29"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Chepigana",
+    "corregimiento": "Puerto Piña",
+    "superficie": "302.65",
+    "pop10": "1113.00",
+    "den10": "03.68"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Chepigana",
+    "corregimiento": "Río Congo",
+    "superficie": "474.00",
+    "pop10": "1540.00",
+    "den10": "03.25"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Chepigana",
+    "corregimiento": "Río Iglesias",
+    "superficie": "481.58",
+    "pop10": "1672.00",
+    "den10": "03.47"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Chepigana",
+    "corregimiento": "Sambú",
+    "superficie": "38.78",
+    "pop10": "931.00",
+    "den10": "24.01"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Chepigana",
+    "corregimiento": "Setegantí",
+    "superficie": "101.09",
+    "pop10": "558.00",
+    "den10": "05.52"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Chepigana",
+    "corregimiento": "Taimatí",
+    "superficie": "170.03",
+    "pop10": "764.00",
+    "den10": "04.49"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Chepigana",
+    "corregimiento": "Tucutí",
+    "superficie": "1395.96",
+    "pop10": "1200.00",
+    "den10": "00.86"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Chepigana",
+    "corregimiento": "Agua Fría",
+    "superficie": "283.73",
+    "pop10": "2692.00",
+    "den10": "09.49"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Chepigana",
+    "corregimiento": "Cucunatí",
+    "superficie": "196.64",
+    "pop10": "1346.00",
+    "den10": "06.85"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Chepigana",
+    "corregimiento": "Río Congo Arriba",
+    "superficie": "329.49",
+    "pop10": "1916.00",
+    "den10": "05.82"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Chepigana",
+    "corregimiento": "Santa Fé",
+    "superficie": "615.32",
+    "pop10": "6923.00",
+    "den10": "11.25"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Pinogana",
+    "superficie": "4901.39",
+    "pop10": "18268.00",
+    "den10": "03.73",
+    "capital": "El Real de Santa María"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Pinogana",
+    "corregimiento": "El Real de Santa María",
+    "superficie": "120.05",
+    "pop10": "1183.00",
+    "den10": "09.85"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Pinogana",
+    "corregimiento": "Boca de Cupé",
+    "superficie": "781.15",
+    "pop10": "1167.00",
+    "den10": "01.49"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Pinogana",
+    "corregimiento": "Paya",
+    "superficie": "1111.13",
+    "pop10": "639.00",
+    "den10": "00.58"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Pinogana",
+    "corregimiento": "Pinogana",
+    "superficie": "42.91",
+    "pop10": "405.00",
+    "den10": "09.44"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Pinogana",
+    "corregimiento": "Púcuro",
+    "superficie": "78.35",
+    "pop10": "356.00",
+    "den10": "04.54"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Pinogana",
+    "corregimiento": "Yape",
+    "superficie": "544.81",
+    "pop10": "187.00",
+    "den10": "00.34"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Pinogana",
+    "corregimiento": "Yaviza",
+    "superficie": "397.10",
+    "pop10": "4441.00",
+    "den10": "11.18"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Pinogana",
+    "corregimiento": "Metetí",
+    "superficie": "869.52",
+    "pop10": "7976.00",
+    "den10": "09.17"
+  },
+  {
+    "provincia": "DARIÉN",
+    "distrito": "Pinogana",
+    "corregimiento": "Comarca Kuna de Wargandí",
+    "superficie": "956.37",
+    "pop10": "1914.00",
+    "den10": "02.00"
+  },
+  {
+    "provincia": "HERRERA",
+    "superficie": "2361.99",
+    "pop10": "109955.00",
+    "den10": "46.55",
+    "capital": "Chitré"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Chitré",
+    "superficie": "87.75",
+    "pop10": "50684.00",
+    "den10": "577.58",
+    "capital": "Chitré"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Chitré",
+    "corregimiento": "Chitré",
+    "superficie": "12.36",
+    "pop10": "9092.00",
+    "den10": "735.51"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Chitré",
+    "corregimiento": "La Arena",
+    "superficie": "28.98",
+    "pop10": "7586.00",
+    "den10": "261.80"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Chitré",
+    "corregimiento": "Monagrillo",
+    "superficie": "27.20",
+    "pop10": "12385.00",
+    "den10": "455.29"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Chitré",
+    "corregimiento": "Llano Bonito",
+    "superficie": "10.90",
+    "pop10": "9798.00",
+    "den10": "898.88"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Chitré",
+    "corregimiento": "San Juan Bautista",
+    "superficie": "08.31",
+    "pop10": "11823.00",
+    "den10": "1422.49"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Las Minas",
+    "superficie": "468.94",
+    "pop10": "7551.00",
+    "den10": "16.10",
+    "capital": "Las Minas"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Las Minas",
+    "corregimiento": "Las Minas",
+    "superficie": "57.10",
+    "pop10": "1975.00",
+    "den10": "34.59"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Las Minas",
+    "corregimiento": "Chepo",
+    "superficie": "142.65",
+    "pop10": "1415.00",
+    "den10": "09.92"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Las Minas",
+    "corregimiento": "Chumical",
+    "superficie": "25.03",
+    "pop10": "665.00",
+    "den10": "26.57"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Las Minas",
+    "corregimiento": "El Toro",
+    "superficie": "82.75",
+    "pop10": "931.00",
+    "den10": "11.25"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Las Minas",
+    "corregimiento": "Leones",
+    "superficie": "72.26",
+    "pop10": "852.00",
+    "den10": "11.79"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Las Minas",
+    "corregimiento": "Quebrada del Rosario",
+    "superficie": "46.05",
+    "pop10": "794.00",
+    "den10": "17.24"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Las Minas",
+    "corregimiento": "Quebrada El Ciprián",
+    "superficie": "43.09",
+    "pop10": "919.00",
+    "den10": "21.33"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Los Pozos",
+    "superficie": "385.47",
+    "pop10": "7478.00",
+    "den10": "19.40",
+    "capital": "Los Pozos"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Los Pozos",
+    "corregimiento": "Los Pozos",
+    "superficie": "59.19",
+    "pop10": "2199.00",
+    "den10": "37.15"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Los Pozos",
+    "corregimiento": "Capurí",
+    "superficie": "18.32",
+    "pop10": "446.00",
+    "den10": "24.35"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Los Pozos",
+    "corregimiento": "El Calabacito",
+    "superficie": "34.02",
+    "pop10": "617.00",
+    "den10": "18.14"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Los Pozos",
+    "corregimiento": "El Cedro",
+    "superficie": "34.05",
+    "pop10": "503.00",
+    "den10": "14.77"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Los Pozos",
+    "corregimiento": "La Arena",
+    "superficie": "24.10",
+    "pop10": "559.00",
+    "den10": "23.19"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Los Pozos",
+    "corregimiento": "La Pitaloza",
+    "superficie": "85.15",
+    "pop10": "674.00",
+    "den10": "07.92"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Los Pozos",
+    "corregimiento": "Los Cerritos",
+    "superficie": "31.71",
+    "pop10": "985.00",
+    "den10": "31.07"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Los Pozos",
+    "corregimiento": "Los Cerros de Paja",
+    "superficie": "37.43",
+    "pop10": "896.00",
+    "den10": "23.94"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Los Pozos",
+    "corregimiento": "Las Llanas",
+    "superficie": "61.51",
+    "pop10": "599.00",
+    "den10": "09.74"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Ocú",
+    "superficie": "618.41",
+    "pop10": "15539.00",
+    "den10": "25.13",
+    "capital": "Ocú"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Ocú",
+    "corregimiento": "Ocú",
+    "superficie": "121.59",
+    "pop10": "7006.00",
+    "den10": "57.62"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Ocú",
+    "corregimiento": "Cerro Largo",
+    "superficie": "106.46",
+    "pop10": "1478.00",
+    "den10": "13.88"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Ocú",
+    "corregimiento": "Los Llanos",
+    "superficie": "98.66",
+    "pop10": "2110.00",
+    "den10": "21.39"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Ocú",
+    "corregimiento": "Llano Grande",
+    "superficie": "71.07",
+    "pop10": "1062.00",
+    "den10": "14.94"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Ocú",
+    "corregimiento": "Peñas Chatas",
+    "superficie": "89.12",
+    "pop10": "1778.00",
+    "den10": "19.95"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Ocú",
+    "corregimiento": "El Tijera",
+    "superficie": "66.57",
+    "pop10": "588.00",
+    "den10": "08.83"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Ocú",
+    "corregimiento": "Menchaca",
+    "superficie": "64.95",
+    "pop10": "1517.00",
+    "den10": "23.36"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Parita",
+    "superficie": "352.83",
+    "pop10": "8885.00",
+    "den10": "25.18",
+    "capital": "Parita"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Parita",
+    "corregimiento": "Parita",
+    "superficie": "108.21",
+    "pop10": "3723.00",
+    "den10": "34.41"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Parita",
+    "corregimiento": "Cabuya",
+    "superficie": "59.46",
+    "pop10": "1092.00",
+    "den10": "18.37"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Parita",
+    "corregimiento": "Los Castillos",
+    "superficie": "22.54",
+    "pop10": "745.00",
+    "den10": "33.05"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Parita",
+    "corregimiento": "Llano de la Cruz",
+    "superficie": "10.65",
+    "pop10": "318.00",
+    "den10": "29.87"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Parita",
+    "corregimiento": "París",
+    "superficie": "75.81",
+    "pop10": "1070.00",
+    "den10": "14.11"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Parita",
+    "corregimiento": "Portobelillo",
+    "superficie": "26.97",
+    "pop10": "892.00",
+    "den10": "33.07"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Parita",
+    "corregimiento": "Potuga",
+    "superficie": "49.19",
+    "pop10": "1045.00",
+    "den10": "21.25"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Pesé",
+    "superficie": "288.96",
+    "pop10": "12397.00",
+    "den10": "42.90",
+    "capital": "Pesé"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Pesé",
+    "corregimiento": "Pesé",
+    "superficie": "05.73",
+    "pop10": "2565.00",
+    "den10": "447.38"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Pesé",
+    "corregimiento": "Las Cabras",
+    "superficie": "59.03",
+    "pop10": "1914.00",
+    "den10": "32.43"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Pesé",
+    "corregimiento": "El Pájaro",
+    "superficie": "22.98",
+    "pop10": "861.00",
+    "den10": "37.47"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Pesé",
+    "corregimiento": "El Barrero",
+    "superficie": "36.79",
+    "pop10": "1841.00",
+    "den10": "50.04"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Pesé",
+    "corregimiento": "El Pedregoso",
+    "superficie": "31.35",
+    "pop10": "1386.00",
+    "den10": "44.21"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Pesé",
+    "corregimiento": "El Ciruelo",
+    "superficie": "45.67",
+    "pop10": "823.00",
+    "den10": "18.02"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Pesé",
+    "corregimiento": "Sabanagrande",
+    "superficie": "58.43",
+    "pop10": "1591.00",
+    "den10": "27.23"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Pesé",
+    "corregimiento": "Rincón Hondo",
+    "superficie": "28.98",
+    "pop10": "1416.00",
+    "den10": "48.86"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Santa María",
+    "superficie": "159.63",
+    "pop10": "7421.00",
+    "den10": "46.49",
+    "capital": "Santa María"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Santa María",
+    "corregimiento": "Santa María",
+    "superficie": "23.91",
+    "pop10": "1682.00",
+    "den10": "70.36"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Santa María",
+    "corregimiento": "Chupampa",
+    "superficie": "22.65",
+    "pop10": "1231.00",
+    "den10": "54.35"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Santa María",
+    "corregimiento": "El Rincón",
+    "superficie": "40.43",
+    "pop10": "1712.00",
+    "den10": "42.34"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Santa María",
+    "corregimiento": "El Limón",
+    "superficie": "23.82",
+    "pop10": "1221.00",
+    "den10": "51.26"
+  },
+  {
+    "provincia": "HERRERA",
+    "distrito": "Santa María",
+    "corregimiento": "Los Canelos",
+    "superficie": "48.82",
+    "pop10": "1575.00",
+    "den10": "32.26"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "superficie": "3809.43",
+    "pop10": "89592.00",
+    "den10": "23.52",
+    "capital": "Las Tablas"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Guararé",
+    "superficie": "215.62",
+    "pop10": "10381.00",
+    "den10": "48.14",
+    "capital": "Guararé"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Guararé",
+    "corregimiento": "Guararé",
+    "superficie": "16.43",
+    "pop10": "4524.00",
+    "den10": "275.43"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Guararé",
+    "corregimiento": "El Espinal",
+    "superficie": "35.41",
+    "pop10": "1243.00",
+    "den10": "35.10"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Guararé",
+    "corregimiento": "El Macano",
+    "superficie": "29.02",
+    "pop10": "281.00",
+    "den10": "09.68"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Guararé",
+    "corregimiento": "Guararé Arriba",
+    "superficie": "08.64",
+    "pop10": "394.00",
+    "den10": "45.61"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Guararé",
+    "corregimiento": "La Enea",
+    "superficie": "13.17",
+    "pop10": "1186.00",
+    "den10": "90.09"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Guararé",
+    "corregimiento": "La Pasera",
+    "superficie": "20.60",
+    "pop10": "897.00",
+    "den10": "43.54"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Guararé",
+    "corregimiento": "Las Trancas",
+    "superficie": "29.21",
+    "pop10": "511.00",
+    "den10": "17.49"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Guararé",
+    "corregimiento": "Llano Abajo",
+    "superficie": "21.27",
+    "pop10": "550.00",
+    "den10": "25.86"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Guararé",
+    "corregimiento": "El Hato",
+    "superficie": "24.04",
+    "pop10": "374.00",
+    "den10": "15.56"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Guararé",
+    "corregimiento": "Perales",
+    "superficie": "17.86",
+    "pop10": "421.00",
+    "den10": "23.58"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "superficie": "711.20",
+    "pop10": "27146.00",
+    "den10": "38.17",
+    "capital": "Las Tablas"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "Las Tablas",
+    "superficie": "07.47",
+    "pop10": "8945.00",
+    "den10": "1197.57"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "Bajo Corral",
+    "superficie": "63.11",
+    "pop10": "483.00",
+    "den10": "07.65"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "Bayano",
+    "superficie": "112.80",
+    "pop10": "660.00",
+    "den10": "05.85"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "El Carate",
+    "superficie": "17.73",
+    "pop10": "873.00",
+    "den10": "49.23"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "El Cocal",
+    "superficie": "07.15",
+    "pop10": "1889.00",
+    "den10": "264.15"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "El Manantial",
+    "superficie": "27.37",
+    "pop10": "909.00",
+    "den10": "33.21"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "El Muñoz",
+    "superficie": "33.06",
+    "pop10": "376.00",
+    "den10": "11.37"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "El Pedregoso",
+    "superficie": "07.05",
+    "pop10": "279.00",
+    "den10": "39.59"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "La Laja",
+    "superficie": "04.39",
+    "pop10": "547.00",
+    "den10": "124.70"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "La Miel",
+    "superficie": "34.24",
+    "pop10": "290.00",
+    "den10": "08.47"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "La Palma",
+    "superficie": "10.52",
+    "pop10": "1247.00",
+    "den10": "118.57"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "La Tiza",
+    "superficie": "03.84",
+    "pop10": "1702.00",
+    "den10": "442.94"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "Las Palmitas",
+    "superficie": "11.07",
+    "pop10": "2057.00",
+    "den10": "185.74"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "Las Tablas Abajo",
+    "superficie": "15.67",
+    "pop10": "1030.00",
+    "den10": "65.74"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "Nuario",
+    "superficie": "101.10",
+    "pop10": "182.00",
+    "den10": "01.80"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "Palmira",
+    "superficie": "09.66",
+    "pop10": "93.00",
+    "den10": "09.63"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "Peña Blanca",
+    "superficie": "07.98",
+    "pop10": "875.00",
+    "den10": "109.71"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "Río Hondo",
+    "superficie": "32.17",
+    "pop10": "206.00",
+    "den10": "06.40"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "San José",
+    "superficie": "61.63",
+    "pop10": "593.00",
+    "den10": "09.62"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "San Miguel",
+    "superficie": "10.01",
+    "pop10": "116.00",
+    "den10": "11.58"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "Santo Domingo",
+    "superficie": "48.53",
+    "pop10": "2050.00",
+    "den10": "42.24"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "Sesteadero",
+    "superficie": "04.29",
+    "pop10": "1067.00",
+    "den10": "248.47"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "Valle Rico",
+    "superficie": "41.38",
+    "pop10": "400.00",
+    "den10": "09.67"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Las Tablas",
+    "corregimiento": "Vallerriquito",
+    "superficie": "38.99",
+    "pop10": "277.00",
+    "den10": "07.11"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Los Santos",
+    "superficie": "432.99",
+    "pop10": "25723.00",
+    "den10": "59.41",
+    "capital": "La Villa de los Santos"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Los Santos",
+    "corregimiento": "La Villa de los Santos",
+    "superficie": "72.91",
+    "pop10": "7991.00",
+    "den10": "109.60"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Los Santos",
+    "corregimiento": "El Guásimo",
+    "superficie": "30.76",
+    "pop10": "610.00",
+    "den10": "19.83"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Los Santos",
+    "corregimiento": "La Colorada",
+    "superficie": "20.69",
+    "pop10": "1030.00",
+    "den10": "49.77"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Los Santos",
+    "corregimiento": "La Espigadilla",
+    "superficie": "28.06",
+    "pop10": "1675.00",
+    "den10": "59.70"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Los Santos",
+    "corregimiento": "Las Cruces",
+    "superficie": "44.53",
+    "pop10": "1201.00",
+    "den10": "26.97"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Los Santos",
+    "corregimiento": "Las Guabas",
+    "superficie": "21.91",
+    "pop10": "677.00",
+    "den10": "30.91"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Los Santos",
+    "corregimiento": "Los Angeles",
+    "superficie": "21.89",
+    "pop10": "868.00",
+    "den10": "39.64"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Los Santos",
+    "corregimiento": "Los Olivos",
+    "superficie": "27.01",
+    "pop10": "1259.00",
+    "den10": "46.61"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Los Santos",
+    "corregimiento": "Llano Largo",
+    "superficie": "10.37",
+    "pop10": "2265.00",
+    "den10": "218.49"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Los Santos",
+    "corregimiento": "Sabanagrande",
+    "superficie": "34.83",
+    "pop10": "1909.00",
+    "den10": "54.81"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Los Santos",
+    "corregimiento": "Santa Ana",
+    "superficie": "69.67",
+    "pop10": "3329.00",
+    "den10": "47.79"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Los Santos",
+    "corregimiento": "Tres Quebradas",
+    "superficie": "12.85",
+    "pop10": "717.00",
+    "den10": "55.80"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Los Santos",
+    "corregimiento": "Agua Buena",
+    "superficie": "10.06",
+    "pop10": "1117.00",
+    "den10": "111.06"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Los Santos",
+    "corregimiento": "Villa Lourdes",
+    "superficie": "27.46",
+    "pop10": "1075.00",
+    "den10": "39.15"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Macaracas",
+    "superficie": "504.61",
+    "pop10": "9021.00",
+    "den10": "17.88",
+    "capital": "Macaracas"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Macaracas",
+    "corregimiento": "Macaracas",
+    "superficie": "35.76",
+    "pop10": "2890.00",
+    "den10": "80.81"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Macaracas",
+    "corregimiento": "Bahía Honda",
+    "superficie": "28.09",
+    "pop10": "646.00",
+    "den10": "22.99"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Macaracas",
+    "corregimiento": "Bajos de Güera",
+    "superficie": "99.46",
+    "pop10": "619.00",
+    "den10": "06.22"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Macaracas",
+    "corregimiento": "Corozal",
+    "superficie": "24.65",
+    "pop10": "625.00",
+    "den10": "25.35"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Macaracas",
+    "corregimiento": "Chupá",
+    "superficie": "17.88",
+    "pop10": "520.00",
+    "den10": "29.08"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Macaracas",
+    "corregimiento": "El Cedro",
+    "superficie": "28.07",
+    "pop10": "450.00",
+    "den10": "16.03"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Macaracas",
+    "corregimiento": "Espino Amarillo",
+    "superficie": "26.99",
+    "pop10": "193.00",
+    "den10": "07.15"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Macaracas",
+    "corregimiento": "La Mesa",
+    "superficie": "46.22",
+    "pop10": "641.00",
+    "den10": "13.87"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Macaracas",
+    "corregimiento": "Las Palmas",
+    "superficie": "42.44",
+    "pop10": "436.00",
+    "den10": "10.27"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Macaracas",
+    "corregimiento": "Llano de Piedra",
+    "superficie": "99.88",
+    "pop10": "1737.00",
+    "den10": "17.39"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Macaracas",
+    "corregimiento": "Mogollón",
+    "superficie": "55.15",
+    "pop10": "264.00",
+    "den10": "04.79"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Pedasí",
+    "superficie": "378.13",
+    "pop10": "4275.00",
+    "den10": "11.31",
+    "capital": "Pedasí"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Pedasí",
+    "corregimiento": "Pedasí",
+    "superficie": "114.31",
+    "pop10": "2410.00",
+    "den10": "21.08"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Pedasí",
+    "corregimiento": "Los Asientos",
+    "superficie": "90.68",
+    "pop10": "755.00",
+    "den10": "08.33"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Pedasí",
+    "corregimiento": "Mariabé",
+    "superficie": "45.94",
+    "pop10": "319.00",
+    "den10": "06.94"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Pedasí",
+    "corregimiento": "Purio",
+    "superficie": "23.96",
+    "pop10": "494.00",
+    "den10": "20.62"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Pedasí",
+    "corregimiento": "Oria Arriba",
+    "superficie": "103.24",
+    "pop10": "297.00",
+    "den10": "02.88"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Pocrí",
+    "superficie": "280.34",
+    "pop10": "3259.00",
+    "den10": "11.63",
+    "capital": "Pocrí"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Pocrí",
+    "corregimiento": "Pocrí",
+    "superficie": "57.59",
+    "pop10": "1002.00",
+    "den10": "17.40"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Pocrí",
+    "corregimiento": "El Cañafístulo",
+    "superficie": "58.44",
+    "pop10": "363.00",
+    "den10": "06.21"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Pocrí",
+    "corregimiento": "Lajamina",
+    "superficie": "51.73",
+    "pop10": "514.00",
+    "den10": "09.94"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Pocrí",
+    "corregimiento": "Paraíso",
+    "superficie": "64.40",
+    "pop10": "597.00",
+    "den10": "09.27"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Pocrí",
+    "corregimiento": "Paritilla",
+    "superficie": "48.17",
+    "pop10": "783.00",
+    "den10": "16.26"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Tonosí",
+    "superficie": "1286.54",
+    "pop10": "9787.00",
+    "den10": "07.61",
+    "capital": "Tonosí"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Tonosí",
+    "corregimiento": "Tonosí",
+    "superficie": "83.63",
+    "pop10": "2257.00",
+    "den10": "26.99"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Tonosí",
+    "corregimiento": "Altos de Güera",
+    "superficie": "141.75",
+    "pop10": "632.00",
+    "den10": "04.46"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Tonosí",
+    "corregimiento": "Cañas",
+    "superficie": "94.12",
+    "pop10": "650.00",
+    "den10": "06.91"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Tonosí",
+    "corregimiento": "El Bebedero",
+    "superficie": "116.65",
+    "pop10": "1332.00",
+    "den10": "11.42"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Tonosí",
+    "corregimiento": "El Cacao",
+    "superficie": "92.33",
+    "pop10": "1049.00",
+    "den10": "11.36"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Tonosí",
+    "corregimiento": "El Cortezo",
+    "superficie": "149.99",
+    "pop10": "662.00",
+    "den10": "04.41"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Tonosí",
+    "corregimiento": "Flores",
+    "superficie": "105.00",
+    "pop10": "664.00",
+    "den10": "06.32"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Tonosí",
+    "corregimiento": "Guánico",
+    "superficie": "209.19",
+    "pop10": "996.00",
+    "den10": "04.76"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Tonosí",
+    "corregimiento": "Tronosa",
+    "superficie": "86.38",
+    "pop10": "637.00",
+    "den10": "07.37"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Tonosí",
+    "corregimiento": "Cambutal",
+    "superficie": "183.03",
+    "pop10": "511.00",
+    "den10": "02.79"
+  },
+  {
+    "provincia": "LOS SANTOS",
+    "distrito": "Tonosí",
+    "corregimiento": "Isla de Cañas (19)",
+    "superficie": "24.49",
+    "pop10": "397.00",
+    "den10": "16.21"
+  },
+  {
+    "id": "08",
+    "provincia": "PANAMÁ",
+    "superficie": "8409.33",
+    "pop10": "1249032.00",
+    "den10": "148.53",
+    "capital": "Panama"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "id": "08-1",
+    "distrito": "Balboa",
+    "superficie": "332.94",
+    "pop10": "2721.00",
+    "den10": "08.17",
+    "capital": "San Miguel"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Balboa",
+    "id": "08-1-1",
+    "corregimiento": "San Miguel",
+    "superficie": "129.87",
+    "pop10": "1044.00",
+    "den10": "2018-04-08T05:00:00.000Z"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Balboa",
+    "id": "08-1-2",
+    "corregimiento": "La Ensenada",
+    "superficie": "66.21",
+    "pop10": "94.00",
+    "den10": "01.42"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Balboa",
+    "id": "08-1-3",
+    "corregimiento": "La Esmeralda",
+    "superficie": "39.51",
+    "pop10": "524.00",
+    "den10": "13.26"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Balboa",
+    "id": "08-1-4",
+    "corregimiento": "La Guinea",
+    "superficie": "29.55",
+    "pop10": "83.00",
+    "den10": "02.81"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Balboa",
+    "id": "08-1-5",
+    "corregimiento": "Pedro González",
+    "superficie": "59.74",
+    "pop10": "263.00",
+    "den10": "04.40"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Balboa",
+    "id": "08-1-6",
+    "corregimiento": "Saboga",
+    "superficie": "2018-06-08T05:00:00.000Z",
+    "pop10": "713.00",
+    "den10": "88.51"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "id": "08-2",
+    "distrito": "Chepo",
+    "superficie": "4937-02-01T05:00:00.000Z",
+    "pop10": "46139.00",
+    "den10": "09.35"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Chepo",
+    "id": "08-2-1",
+    "corregimiento": "Chepo",
+    "superficie": "438.61",
+    "pop10": "20420.00",
+    "den10": "46.56"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Chepo",
+    "id": "08-2-2",
+    "corregimiento": "Cañita",
+    "superficie": "358.99",
+    "pop10": "2514.00",
+    "den10": "07.00"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Chepo",
+    "id": "08-2-3",
+    "corregimiento": "Chepillo",
+    "superficie": "00.97",
+    "pop10": "255.00",
+    "den10": "263.35"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Chepo",
+    "id": "08-2-4",
+    "corregimiento": "El Llano",
+    "superficie": "472.94",
+    "pop10": "2819.00",
+    "den10": "05.96"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Chepo",
+    "id": "08-2-5",
+    "corregimiento": "Las Margaritas",
+    "superficie": "263.55",
+    "pop10": "4991.00",
+    "den10": "18.94"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Chepo",
+    "id": "08-2-6",
+    "corregimiento": "Santa Cruz de Chinina",
+    "superficie": "351.52",
+    "pop10": "1572.00",
+    "den10": "04.47"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Chepo",
+    "id": "08-2-7",
+    "corregimiento": "Comarca Kuna de Madungandí",
+    "superficie": "2075.92",
+    "pop10": "4271.00",
+    "den10": "2.06"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Chepo",
+    "id": "08-2-8",
+    "corregimiento": "Tortí",
+    "superficie": "974.54",
+    "pop10": "9297.00",
+    "den10": "09.54"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "id": "08-3",
+    "distrito": "Chimán",
+    "superficie": "1046.05",
+    "pop10": "3343.00",
+    "den10": "03.20"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Chimán",
+    "id": "08-3-1",
+    "corregimiento": "Chimán",
+    "superficie": "281.00",
+    "pop10": "1205.00",
+    "den10": "04.29"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Chimán",
+    "id": "08-3-2",
+    "corregimiento": "Brujas",
+    "superficie": "159.56",
+    "pop10": "688.00",
+    "den10": "04.31",
+    "capital": "Chepo"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Chimán",
+    "id": "08-3-3",
+    "corregimiento": "Gonzalo Vásquez",
+    "superficie": "42.24",
+    "pop10": "91.00",
+    "den10": "02.15"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Chimán",
+    "id": "08-3-4",
+    "corregimiento": "Pásiga",
+    "superficie": "201.37",
+    "pop10": "439.00",
+    "den10": "02.18"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Chimán",
+    "id": "08-3-5",
+    "corregimiento": "Unión Santeña",
+    "superficie": "361.88",
+    "pop10": "920.00",
+    "den10": "02.54"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "id": "08-4",
+    "distrito": "Panamá",
+    "superficie": "2031.15",
+    "pop10": "880691.00",
+    "den10": "433.59"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Panamá",
+    "id": "08-4-1",
+    "corregimiento": "San Felipe",
+    "superficie": "00.30",
+    "pop10": "3262.00",
+    "den10": "11005.40"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Panamá",
+    "id": "08-4-2",
+    "corregimiento": "El Chorrillo",
+    "superficie": "00.62",
+    "pop10": "18302.00",
+    "den10": "29363.07"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Panamá",
+    "id": "08-4-3",
+    "corregimiento": "Santa Ana",
+    "superficie": "00.84",
+    "pop10": "18210.00",
+    "den10": "21727.72"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Panamá",
+    "id": "08-4-4",
+    "corregimiento": "La Exposición o Calidonia",
+    "superficie": "01.59",
+    "pop10": "19108.00",
+    "den10": "12001.00"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Panamá",
+    "id": "08-4-5",
+    "corregimiento": "Curundú",
+    "superficie": "01.13",
+    "pop10": "16361.00",
+    "den10": "14465.96"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Panamá",
+    "id": "08-4-6",
+    "corregimiento": "Betania",
+    "superficie": "08.30",
+    "pop10": "46116.00",
+    "den10": "5559.43"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Panamá",
+    "id": "08-4-7",
+    "corregimiento": "Bella Vista",
+    "superficie": "04.84",
+    "pop10": "30136.00",
+    "den10": "6228.89"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Panamá",
+    "id": "08-4-8",
+    "corregimiento": "Pueblo Nuevo",
+    "superficie": "02.87",
+    "pop10": "18984.00",
+    "den10": "6625.95"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Panamá",
+    "id": "08-4-9",
+    "corregimiento": "San Francisco",
+    "superficie": "06.41",
+    "pop10": "43939.00",
+    "den10": "6855.72"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Panamá",
+    "id": "08-4-10",
+    "corregimiento": "Parque Lefevre",
+    "superficie": "06.84",
+    "pop10": "36997.00",
+    "den10": "5407.97"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Panamá",
+    "id": "08-4-11",
+    "corregimiento": "Río Abajo",
+    "superficie": "03.86",
+    "pop10": "26607.00",
+    "den10": "6892.47"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Panamá",
+    "id": "08-4-12",
+    "corregimiento": "Juan Díaz",
+    "superficie": "34.00",
+    "pop10": "100636.00",
+    "den10": "2959.88"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Panamá",
+    "id": "08-4-13",
+    "corregimiento": "Pedregal",
+    "superficie": "28.25",
+    "pop10": "51641.00",
+    "den10": "1827.74"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Panamá",
+    "id": "08-4-14",
+    "corregimiento": "Ancón",
+    "superficie": "204.59",
+    "pop10": "29761.00",
+    "den10": "145.47"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Panamá",
+    "id": "08-4-15",
+    "corregimiento": "Chilibre",
+    "superficie": "923.95",
+    "pop10": "53955.00",
+    "den10": "58.40"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Panamá",
+    "id": "08-4-16",
+    "corregimiento": "Las Cumbres",
+    "superficie": "27.85",
+    "pop10": "32867.00",
+    "den10": "1180.31"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Panamá",
+    "id": "08-4-17",
+    "corregimiento": "Pacora",
+    "superficie": "399.43",
+    "pop10": "52494.00",
+    "den10": "131.42"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Panamá",
+    "id": "08-4-18",
+    "corregimiento": "San Martín",
+    "superficie": "131.49",
+    "pop10": "4410.00",
+    "den10": "33.54"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Panamá",
+    "id": "08-4-19",
+    "corregimiento": "Tocumen",
+    "superficie": "63.85",
+    "pop10": "74952.00",
+    "den10": "1173.86"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Panamá",
+    "id": "08-4-20",
+    "corregimiento": "Las Mañanitas",
+    "superficie": "24.68",
+    "pop10": "39473.00",
+    "den10": "1599.63"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Panamá",
+    "id": "08-4-21",
+    "corregimiento": "2018-12-24T05:00:00.000Z",
+    "superficie": "78.90",
+    "pop10": "65404.00",
+    "den10": "828.97"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Panamá",
+    "id": "08-4-22",
+    "corregimiento": "Alcalde Díaz",
+    "superficie": "46.02",
+    "pop10": "41292.00",
+    "den10": "897.26"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Panamá",
+    "id": "08-4-23",
+    "corregimiento": "Ernesto Córdoba Campos",
+    "superficie": "30.55",
+    "pop10": "55784.00",
+    "den10": "1826-01-01T04:56:16.000Z"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "id": "08-5",
+    "distrito": "San Miguelito",
+    "superficie": "50.10",
+    "pop10": "315019.00",
+    "den10": "6287.74"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "San Miguelito",
+    "id": "08-5-1",
+    "corregimiento": "Amelia Denis de Icaza",
+    "superficie": "03.80",
+    "pop10": "38397.00",
+    "den10": "10096.77"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "San Miguelito",
+    "id": "08-5-2",
+    "corregimiento": "Belisario Porras",
+    "superficie": "2018-02-04T05:00:00.000Z",
+    "pop10": "49367.00",
+    "den10": "12294.11"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "San Miguelito",
+    "id": "08-5-3",
+    "corregimiento": "José Domingo Espinar",
+    "superficie": "2018-10-07T05:00:00.000Z",
+    "pop10": "44471.00",
+    "den10": "6265.20"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "San Miguelito",
+    "id": "08-5-4",
+    "corregimiento": "Mateo Iturralde",
+    "superficie": "00.99",
+    "pop10": "11496.00",
+    "den10": "11565.39"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "San Miguelito",
+    "id": "08-5-5",
+    "corregimiento": "Victoriano Lorenzo",
+    "superficie": "02.00",
+    "pop10": "15873.00",
+    "den10": "7924.22"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "San Miguelito",
+    "id": "08-5-6",
+    "corregimiento": "Arnulfo Arias",
+    "superficie": "07.27",
+    "pop10": "31650.00",
+    "den10": "4355.96"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "San Miguelito",
+    "id": "08-5-7",
+    "corregimiento": "Belisario Frías",
+    "superficie": "04.30",
+    "pop10": "44571.00",
+    "den10": "10359.09"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "San Miguelito",
+    "id": "08-5-8",
+    "corregimiento": "Omar Torrijos",
+    "superficie": "2018-05-11T05:00:00.000Z",
+    "pop10": "36452.00",
+    "den10": "3297.81"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "San Miguelito",
+    "id": "08-5-9",
+    "corregimiento": "Rufina Alfaro",
+    "superficie": "09.57",
+    "pop10": "42742.00",
+    "den10": "4468.58"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "id": "08-6",
+    "distrito": "Taboga",
+    "superficie": "2018-07-12T05:00:00.000Z",
+    "pop10": "1119.00",
+    "den10": "92.73",
+    "capital": "Taboga"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Taboga",
+    "id": "08-6-1",
+    "corregimiento": "Taboga",
+    "superficie": "08.48",
+    "pop10": "731.00",
+    "den10": "86.20"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Taboga",
+    "id": "08-6-2",
+    "corregimiento": "Otoque Oriente",
+    "superficie": "01.57",
+    "pop10": "126.00",
+    "den10": "80.19"
+  },
+  {
+    "provincia": "PANAMÁ",
+    "distrito": "Taboga",
+    "id": "08-6-3",
+    "corregimiento": "Otoque Occidente",
+    "superficie": "2018-02-02T05:00:00.000Z",
+    "pop10": "262.00",
+    "den10": "129.96"
+  },
+  {
+    "id": "09",
+    "provincia": "PANAMÁ OESTE",
+    "superficie": "2880.11",
+    "pop10": "464038.00",
+    "den10": "161.12"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "id": "13-1",
+    "distrito": "Arraiján",
+    "superficie": "418.38",
+    "pop10": "220779.00",
+    "den10": "527.70"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Arraiján",
+    "id": "13-1-1",
+    "corregimiento": "Arraiján",
+    "superficie": "65.48",
+    "pop10": "41041.00",
+    "den10": "626.76"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Arraiján",
+    "id": "13-1-2",
+    "corregimiento": "Juan Demóstenes Arosemena",
+    "superficie": "40.71",
+    "pop10": "37044.00",
+    "den10": "909.84"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Arraiján",
+    "id": "13-1-3",
+    "corregimiento": "Nuevo Emperador",
+    "superficie": "107.56",
+    "pop10": "3903.00",
+    "den10": "36.29"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Arraiján",
+    "id": "13-1-4",
+    "corregimiento": "Santa Clara",
+    "superficie": "52.78",
+    "pop10": "2139.00",
+    "den10": "40.53"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Arraiján",
+    "id": "13-1-5",
+    "corregimiento": "Veracruz",
+    "superficie": "49.71",
+    "pop10": "18589.00",
+    "den10": "373.96"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Arraiján",
+    "id": "13-1-6",
+    "corregimiento": "Vista Alegre",
+    "superficie": "30.44",
+    "pop10": "55369.00",
+    "den10": "1818.77"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Arraiján",
+    "id": "13-1-7",
+    "corregimiento": "Burunga",
+    "superficie": "52.44",
+    "pop10": "39102.00",
+    "den10": "745.72"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Arraiján",
+    "id": "13-1-8",
+    "corregimiento": "Cerro Silvestre",
+    "superficie": "19.26",
+    "pop10": "23592.00",
+    "den10": "1225.13"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "id": "13-2",
+    "distrito": "Capira",
+    "superficie": "977.68",
+    "pop10": "38398.00",
+    "den10": "39.27"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Capira",
+    "id": "13-2-1",
+    "corregimiento": "Capira",
+    "superficie": "45.64",
+    "pop10": "5181.00",
+    "den10": "113.52"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Capira",
+    "id": "13-2-2",
+    "corregimiento": "Caimito",
+    "superficie": "43.84",
+    "pop10": "1635.00",
+    "den10": "37.30"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Capira",
+    "id": "13-2-3",
+    "corregimiento": "Campana",
+    "superficie": "75.09",
+    "pop10": "2067.00",
+    "den10": "27.53"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Capira",
+    "id": "13-2-4",
+    "corregimiento": "Cermeño",
+    "superficie": "94.03",
+    "pop10": "1946.00",
+    "den10": "20.70"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Capira",
+    "id": "13-2-5",
+    "corregimiento": "Cirí de los Sotos",
+    "superficie": "94.49",
+    "pop10": "2288.00",
+    "den10": "24.21"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Capira",
+    "id": "13-2-6",
+    "corregimiento": "Cirí Grande",
+    "superficie": "147.47",
+    "pop10": "3635.00",
+    "den10": "24.65"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Capira",
+    "id": "13-2-7",
+    "corregimiento": "El Cacao",
+    "superficie": "177.06",
+    "pop10": "4951.00",
+    "den10": "27.96"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Capira",
+    "id": "13-2-8",
+    "corregimiento": "La Trinidad",
+    "superficie": "107.04",
+    "pop10": "2572.00",
+    "den10": 43183
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Capira",
+    "id": "13-2-9",
+    "corregimiento": "Las Ollas Arriba",
+    "superficie": 43245,
+    "pop10": "1201.00",
+    "den10": "47.95"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Capira",
+    "id": "13-2-10",
+    "corregimiento": "Lídice",
+    "superficie": "42.64",
+    "pop10": "5307.00",
+    "den10": "124.47"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Capira",
+    "id": "13-2-11",
+    "corregimiento": "Villa Carmen",
+    "superficie": "06.42",
+    "pop10": "1352.00",
+    "den10": "210.46"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Capira",
+    "id": "13-2-12",
+    "corregimiento": "Villa Rosario",
+    "superficie": "25.96",
+    "pop10": "4496.00",
+    "den10": "173.22"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Capira",
+    "id": "13-2-13",
+    "corregimiento": "Santa Rosa",
+    "superficie": "92.96",
+    "pop10": "1767.00",
+    "den10": 43119
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "id": "13-3",
+    "distrito": "Chame",
+    "superficie": "376.71",
+    "pop10": "24471.00",
+    "den10": "64.96"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Chame",
+    "id": "13-3-1",
+    "corregimiento": "Chame",
+    "superficie": "31.16",
+    "pop10": "2432.00",
+    "den10": "78.06"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Chame",
+    "id": "13-3-2",
+    "corregimiento": "Bejuco",
+    "superficie": "59.64",
+    "pop10": "5548.00",
+    "den10": "93.02"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Chame",
+    "id": "13-3-3",
+    "corregimiento": "Buenos Aires",
+    "superficie": "39.92",
+    "pop10": "2030.00",
+    "den10": "50.85"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Chame",
+    "id": "13-3-4",
+    "corregimiento": "Cabuya",
+    "superficie": "44.80",
+    "pop10": "1666.00",
+    "den10": "37.19"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Chame",
+    "id": "13-3-5",
+    "corregimiento": "Chicá",
+    "superficie": "19.23",
+    "pop10": "713.00",
+    "den10": "37.08"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Chame",
+    "id": "13-3-6",
+    "corregimiento": "El Líbano",
+    "superficie": "30.88",
+    "pop10": "200.00",
+    "den10": "06.48"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Chame",
+    "id": "13-3-7",
+    "corregimiento": "Las Lajas",
+    "superficie": "13.28",
+    "pop10": "3431.00",
+    "den10": "258.41"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Chame",
+    "id": "13-3-8",
+    "corregimiento": "Nueva Gorgona",
+    "superficie": "19.89",
+    "pop10": "4075.00",
+    "den10": "204.86"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Chame",
+    "id": "13-3-9",
+    "corregimiento": "Punta Chame",
+    "superficie": "16.96",
+    "pop10": "443.00",
+    "den10": 43460
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Chame",
+    "id": "13-3-10",
+    "corregimiento": "Sajalices",
+    "superficie": "24.78",
+    "pop10": "2280.00",
+    "den10": "92.02"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "Chame",
+    "id": "13-3-11",
+    "corregimiento": "Sorá",
+    "superficie": "76.17",
+    "pop10": "1653.00",
+    "den10": "21.70"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "id": "13-4",
+    "distrito": "La Chorrera",
+    "superficie": "769.78",
+    "pop10": "161470.00",
+    "den10": "209.76"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "La Chorrera",
+    "id": "13-4-1",
+    "corregimiento": "Barrio Balboa",
+    "superficie": "07.92",
+    "pop10": "29589.00",
+    "den10": "3734.24"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "La Chorrera",
+    "id": "13-4-2",
+    "corregimiento": "Barrio Colón",
+    "superficie": "14.74",
+    "pop10": "33214.00",
+    "den10": 129388
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "La Chorrera",
+    "id": "13-4-3",
+    "corregimiento": "Amador",
+    "superficie": "131.11",
+    "pop10": "2996.00",
+    "den10": "22.85"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "La Chorrera",
+    "id": "13-4-4",
+    "corregimiento": "Arosemena",
+    "superficie": "31.62",
+    "pop10": "426.00",
+    "den10": "13.47"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "La Chorrera",
+    "id": "13-4-5",
+    "corregimiento": "El Arado",
+    "superficie": "70.41",
+    "pop10": "2715.00",
+    "den10": "38.56"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "La Chorrera",
+    "id": "13-4-6",
+    "corregimiento": "El Coco",
+    "superficie": "14.91",
+    "pop10": "19603.00",
+    "den10": -213422
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "La Chorrera",
+    "id": "13-4-7",
+    "corregimiento": "Feuillet",
+    "superficie": "19.35",
+    "pop10": "2669.00",
+    "den10": "137.90"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "La Chorrera",
+    "id": "13-4-8",
+    "corregimiento": "Guadalupe",
+    "superficie": "24.92",
+    "pop10": "34242.00",
+    "den10": -192056
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "La Chorrera",
+    "id": "13-4-9",
+    "corregimiento": "Herrera",
+    "superficie": "85.95",
+    "pop10": "2552.00",
+    "den10": "29.69"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "La Chorrera",
+    "id": "13-4-10",
+    "corregimiento": "Hurtado",
+    "superficie": "47.47",
+    "pop10": "1206.00",
+    "den10": "25.40"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "La Chorrera",
+    "id": "13-4-11",
+    "corregimiento": "Iturralde",
+    "superficie": "64.33",
+    "pop10": "1354.00",
+    "den10": 43241
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "La Chorrera",
+    "id": "13-4-12",
+    "corregimiento": "La Represa",
+    "superficie": "38.14",
+    "pop10": "681.00",
+    "den10": "17.85"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "La Chorrera",
+    "id": "13-4-13",
+    "corregimiento": "Los Díaz",
+    "superficie": "29.38",
+    "pop10": "1200.00",
+    "den10": "40.84"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "La Chorrera",
+    "id": "13-4-14",
+    "corregimiento": "Mendoza",
+    "superficie": "38.10",
+    "pop10": "1233.00",
+    "den10": "32.36"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "La Chorrera",
+    "id": "13-4-15",
+    "corregimiento": "Obaldía",
+    "superficie": "34.57",
+    "pop10": "549.00",
+    "den10": "15.88"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "La Chorrera",
+    "id": "13-4-16",
+    "corregimiento": "Playa Leona",
+    "superficie": "52.89",
+    "pop10": "8442.00",
+    "den10": "159.62"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "La Chorrera",
+    "id": "13-4-17",
+    "corregimiento": "Puerto Caimito",
+    "superficie": "31.65",
+    "pop10": "16951.00",
+    "den10": "535.60"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "La Chorrera",
+    "id": "13-4-18",
+    "corregimiento": "Santa Rita",
+    "superficie": "32.31",
+    "pop10": "1848.00",
+    "den10": "57.20"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "id": "13-5",
+    "distrito": "San Carlos",
+    "superficie": "337.56",
+    "pop10": "18920.00",
+    "den10": "56.05",
+    "capital": "San Carlos"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "San Carlos",
+    "id": "13-5-1",
+    "corregimiento": "San Carlos",
+    "superficie": "29.19",
+    "pop10": "3578.00",
+    "den10": "122.56"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "San Carlos",
+    "id": "13-5-2",
+    "corregimiento": "El Espino",
+    "superficie": "34.91",
+    "pop10": "1847.00",
+    "den10": "52.90"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "San Carlos",
+    "id": "13-5-3",
+    "corregimiento": "El Higo",
+    "superficie": "44.02",
+    "pop10": "2710.00",
+    "den10": "61.57"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "San Carlos",
+    "id": "13-5-4",
+    "corregimiento": "Guayabito",
+    "superficie": "34.13",
+    "pop10": "502.00",
+    "den10": "14.71"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "San Carlos",
+    "id": "13-5-5",
+    "corregimiento": "La Ermita",
+    "superficie": "33.15",
+    "pop10": "1571.00",
+    "den10": "47.38"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "San Carlos",
+    "id": "13-5-6",
+    "corregimiento": "La Laguna",
+    "superficie": "54.10",
+    "pop10": "1132.00",
+    "den10": "20.92"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "San Carlos",
+    "id": "13-5-7",
+    "corregimiento": "Las Uvas",
+    "superficie": "43391",
+    "pop10": "1587.00",
+    "den10": "87.67"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "San Carlos",
+    "id": "13-5-8",
+    "corregimiento": "Los Llanitos",
+    "superficie": "61.65",
+    "pop10": "3264.00",
+    "den10": "52.94"
+  },
+  {
+    "provincia": "PANAMÁ OESTE",
+    "distrito": "San Carlos",
+    "id": "13-5-9",
+    "corregimiento": "San José",
+    "superficie": "28.30",
+    "pop10": "2729.00",
+    "den10": "96.42"
+  },
+  {
+    "id": "09",
+    "provincia": "VERAGUAS",
+    "superficie": "10587.50",
+    "pop10": "226991.00",
+    "den10": "21.44"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "id": "09-1",
+    "distrito": "Atalaya",
+    "superficie": "156.23",
+    "pop10": "10205.00",
+    "den10": "65.32",
+    "capital": "Atalaya"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Atalaya",
+    "id": "09-1-1",
+    "corregimiento": "Atalaya",
+    "superficie": "47.60",
+    "pop10": "4924.00",
+    "den10": "103.45"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Atalaya",
+    "id": "09-1-2",
+    "corregimiento": "El Barrito",
+    "superficie": "23.88",
+    "pop10": "899.00",
+    "den10": "37.64"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Atalaya",
+    "id": "09-1-3",
+    "corregimiento": "La Montañuela",
+    "superficie": "27.56",
+    "pop10": "786.00",
+    "den10": "28.52"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Atalaya",
+    "id": "09-1-4",
+    "corregimiento": "La Carrillo",
+    "superficie": "39.27",
+    "pop10": "630.00",
+    "den10": "16.04"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Atalaya",
+    "id": "09-1-5",
+    "corregimiento": "San Antonio",
+    "superficie": "17.92",
+    "pop10": "2966.00",
+    "den10": "165.53"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "id": "09-2",
+    "distrito": "Calobre",
+    "superficie": "806.15",
+    "pop10": "11493.00",
+    "den10": "14.26",
+    "capital": "Calobre"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Calobre",
+    "id": "09-2-1",
+    "corregimiento": "Calobre",
+    "superficie": "84.75",
+    "pop10": "2514.00",
+    "den10": "29.66"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Calobre",
+    "id": "09-2-2",
+    "corregimiento": "Barnizal",
+    "superficie": "26.23",
+    "pop10": "435.00",
+    "den10": "16.58"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Calobre",
+    "id": "09-2-3",
+    "corregimiento": "Chitra",
+    "superficie": "109.73",
+    "pop10": "1301.00",
+    "den10": "11.86"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Calobre",
+    "id": "09-2-4",
+    "corregimiento": "El Cocla",
+    "superficie": "65.23",
+    "pop10": "608.00",
+    "den10": "09.32"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Calobre",
+    "id": "09-2-5",
+    "corregimiento": "El Potrero",
+    "superficie": "42.67",
+    "pop10": "635.00",
+    "den10": "14.88"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Calobre",
+    "id": "09-2-6",
+    "corregimiento": "La Laguna",
+    "superficie": "85.87",
+    "pop10": "774.00",
+    "den10": "09.01"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Calobre",
+    "id": "09-2-7",
+    "corregimiento": "La Raya de Calobre",
+    "superficie": "33.63",
+    "pop10": "496.00",
+    "den10": "14.75"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Calobre",
+    "id": "09-2-8",
+    "corregimiento": "La Tetilla",
+    "superficie": "53.97",
+    "pop10": "400.00",
+    "den10": "07.41"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Calobre",
+    "id": "09-2-9",
+    "corregimiento": "La Yeguada",
+    "superficie": "131.62",
+    "pop10": "1353.00",
+    "den10": "10.28"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Calobre",
+    "id": "09-2-10",
+    "corregimiento": "Las Guías",
+    "superficie": "93.00",
+    "pop10": "1712.00",
+    "den10": "18.41"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Calobre",
+    "id": "09-2-11",
+    "corregimiento": "Monjarás",
+    "superficie": "43.12",
+    "pop10": "585.00",
+    "den10": "13.57"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Calobre",
+    "id": "09-2-12",
+    "corregimiento": "San José",
+    "superficie": "36.33",
+    "pop10": "680.00",
+    "den10": "18.72"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "id": "09-3",
+    "distrito": "Cañazas",
+    "superficie": "788.70",
+    "pop10": "16830.00",
+    "den10": "21.34",
+    "capital": "Cañazas"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Cañazas",
+    "id": "09-3-1",
+    "corregimiento": "Cañazas",
+    "superficie": "89.27",
+    "pop10": "4836.00",
+    "den10": "54.17"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Cañazas",
+    "id": "09-3-2",
+    "corregimiento": "Cerro de Plata",
+    "superficie": "100.91",
+    "pop10": "1594.00",
+    "den10": "15.80"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Cañazas",
+    "id": "09-3-3",
+    "corregimiento": "El Picador",
+    "superficie": "161.90",
+    "pop10": "3065.00",
+    "den10": "18.93"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Cañazas",
+    "id": "09-3-4",
+    "corregimiento": "Los Valles",
+    "superficie": "81.68",
+    "pop10": "1200.00",
+    "den10": "14.69"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Cañazas",
+    "id": "09-3-5",
+    "corregimiento": "San José",
+    "superficie": "147.23",
+    "pop10": "1936.00",
+    "den10": "13.15"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Cañazas",
+    "id": "09-3-6",
+    "corregimiento": "San Marcelo",
+    "superficie": "78.58",
+    "pop10": "1476.00",
+    "den10": "18.78"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Cañazas",
+    "id": "09-3-7",
+    "corregimiento": "El Aromillo",
+    "superficie": "64.72",
+    "pop10": "1359.00",
+    "den10": "21.00"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Cañazas",
+    "id": "09-3-8",
+    "corregimiento": "Las Cruces",
+    "superficie": "64.41",
+    "pop10": "1364.00",
+    "den10": "21.18"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "id": "09-4",
+    "distrito": "La Mesa",
+    "superficie": "510.96",
+    "pop10": "11631.00",
+    "den10": "22.76",
+    "capital": "La Mesa"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "La Mesa",
+    "id": "09-4-1",
+    "corregimiento": "La Mesa",
+    "superficie": "165.41",
+    "pop10": "3338.00",
+    "den10": "20.18"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "La Mesa",
+    "id": "09-4-2",
+    "corregimiento": "Bisvalles",
+    "superficie": "83.44",
+    "pop10": "2185.00",
+    "den10": "26.19"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "La Mesa",
+    "id": "09-4-3",
+    "corregimiento": "Boró",
+    "superficie": "71.72",
+    "pop10": "1757.00",
+    "den10": "24.50"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "La Mesa",
+    "id": "09-4-4",
+    "corregimiento": "Llano Grande",
+    "superficie": "58.01",
+    "pop10": "815.00",
+    "den10": "14.05"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "La Mesa",
+    "id": "09-4-5",
+    "corregimiento": "San Bartolo",
+    "superficie": "97.36",
+    "pop10": "2440.00",
+    "den10": "25.06"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "La Mesa",
+    "id": "09-4-6",
+    "corregimiento": "Los Milagros",
+    "superficie": "35.04",
+    "pop10": "1096.00",
+    "den10": "31.28"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "id": "09-5",
+    "distrito": "Las Palmas",
+    "superficie": "1015.43",
+    "pop10": "17566.00",
+    "den10": "17.30",
+    "capital": "Las Palmas"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Las Palmas",
+    "id": "09-5-1",
+    "corregimiento": "Las Palmas",
+    "superficie": "128.96",
+    "pop10": "3106.00",
+    "den10": "24.09"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Las Palmas",
+    "id": "09-5-2",
+    "corregimiento": "Cerro de Casa",
+    "superficie": "91.45",
+    "pop10": "2343.00",
+    "den10": "25.62"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Las Palmas",
+    "id": "09-5-3",
+    "corregimiento": "Corozal",
+    "superficie": "40.14",
+    "pop10": "920.00",
+    "den10": "22.92"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Las Palmas",
+    "id": "09-5-4",
+    "corregimiento": "El María",
+    "superficie": "96.06",
+    "pop10": "1077.00",
+    "den10": "11.21"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Las Palmas",
+    "id": "09-5-5",
+    "corregimiento": "El Prado",
+    "superficie": "41.19",
+    "pop10": "1074.00",
+    "den10": "26.07"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Las Palmas",
+    "id": "09-5-6",
+    "corregimiento": "El Rincón",
+    "superficie": "82.74",
+    "pop10": "2574.00",
+    "den10": "31.11"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Las Palmas",
+    "id": "09-5-7",
+    "corregimiento": "Lolá",
+    "superficie": "41.08",
+    "pop10": "946.00",
+    "den10": "23.03"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Las Palmas",
+    "id": "09-5-8",
+    "corregimiento": "Pixvae",
+    "superficie": "79.24",
+    "pop10": "820.00",
+    "den10": "10.35"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Las Palmas",
+    "id": "09-5-9",
+    "corregimiento": "Puerto Vidal",
+    "superficie": "132.05",
+    "pop10": "1671.00",
+    "den10": "12.65"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Las Palmas",
+    "id": "09-5-10",
+    "corregimiento": "San Martín de Porres",
+    "superficie": "26.33",
+    "pop10": "1004.00",
+    "den10": "38.13"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Las Palmas",
+    "id": "09-5-11",
+    "corregimiento": "Viguí",
+    "superficie": "59.60",
+    "pop10": "964.00",
+    "den10": "16.17"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Las Palmas",
+    "id": "09-5-12",
+    "corregimiento": "Zapotillo",
+    "superficie": "196.58",
+    "pop10": "1067.00",
+    "den10": "05.43"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "id": "09-6",
+    "distrito": "Montijo",
+    "superficie": "779.80",
+    "pop10": "6572.00",
+    "den10": "08.43",
+    "capital": "Montijo"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Montijo",
+    "id": "09-6-1",
+    "corregimiento": "Montijo",
+    "superficie": "58.10",
+    "pop10": "2288.00",
+    "den10": "39.38"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Montijo",
+    "id": "09-6-2",
+    "corregimiento": "Gobernadora",
+    "superficie": "536.88",
+    "pop10": "269.00",
+    "den10": "00.50"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Montijo",
+    "id": "09-6-3",
+    "corregimiento": "La Garceana",
+    "superficie": "25.57",
+    "pop10": "276.00",
+    "den10": "10.80"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Montijo",
+    "id": "09-6-4",
+    "corregimiento": "Leones",
+    "superficie": "18.71",
+    "pop10": "224.00",
+    "den10": "11.97"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Montijo",
+    "id": "09-6-5",
+    "corregimiento": "Pilón",
+    "superficie": "05.11",
+    "pop10": "890.00",
+    "den10": "174.02"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Montijo",
+    "id": "09-6-6",
+    "corregimiento": "Cébaco",
+    "superficie": "79.72",
+    "pop10": "378.00",
+    "den10": "04.74"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Montijo",
+    "id": "09-6-7",
+    "corregimiento": "Costa Hermosa",
+    "superficie": "20.48",
+    "pop10": "1550.00",
+    "den10": "75.67"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Montijo",
+    "id": "09-6-8",
+    "corregimiento": "Unión del Norte",
+    "superficie": "35.21",
+    "pop10": "697.00",
+    "den10": "19.79"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "id": "09-7",
+    "distrito": "Río de Jesús",
+    "superficie": "302.28",
+    "pop10": "5102.00",
+    "den10": "16.88",
+    "capital": "Río de Jesús"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Río de Jesús",
+    "id": "09-7-1",
+    "corregimiento": "Río de Jesús",
+    "superficie": "105.39",
+    "pop10": "2484.00",
+    "den10": "23.57"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Río de Jesús",
+    "id": "09-7-2",
+    "corregimiento": "Las Huacas",
+    "superficie": "74.35",
+    "pop10": "965.00",
+    "den10": "12.98"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Río de Jesús",
+    "id": "09-7-3",
+    "corregimiento": "Los Castillos",
+    "superficie": "17.63",
+    "pop10": "552.00",
+    "den10": "31.32"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Río de Jesús",
+    "id": "09-7-4",
+    "corregimiento": "Utira",
+    "superficie": "48.20",
+    "pop10": "314.00",
+    "den10": "06.51"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Río de Jesús",
+    "id": "09-7-5",
+    "corregimiento": "Catorce de Noviembre",
+    "superficie": "56.71",
+    "pop10": "787.00",
+    "den10": "13.88"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "id": "09-8",
+    "distrito": "San Francisco",
+    "superficie": "436.50",
+    "pop10": "9881.00",
+    "den10": "22.64",
+    "capital": "San Francisco"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "San Francisco",
+    "id": "09-8-1",
+    "corregimiento": "San Francisco",
+    "superficie": "73.11",
+    "pop10": "2283.00",
+    "den10": "31.23"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "San Francisco",
+    "id": "09-8-2",
+    "corregimiento": "Corral Falso",
+    "superficie": "38.00",
+    "pop10": "469.00",
+    "den10": "12.34"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "San Francisco",
+    "id": "09-8-3",
+    "corregimiento": "Los Hatillos",
+    "superficie": "109.04",
+    "pop10": "1365.00",
+    "den10": "12.52"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "San Francisco",
+    "id": "09-8-4",
+    "corregimiento": "Remance",
+    "superficie": "78.37",
+    "pop10": "1618.00",
+    "den10": "20.64"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "San Francisco",
+    "id": "09-8-5",
+    "corregimiento": "San Juan",
+    "superficie": "81.41",
+    "pop10": "1591.00",
+    "den10": "19.54"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "San Francisco",
+    "id": "09-8-6",
+    "corregimiento": "San José",
+    "superficie": "56.57",
+    "pop10": "2555.00",
+    "den10": "45.17"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "id": "09-9",
+    "distrito": "Santa Fé",
+    "superficie": "1920.08",
+    "pop10": "15585.00",
+    "den10": "08.12",
+    "capital": "Santa Fé"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Santa Fé",
+    "id": "09-9-1",
+    "corregimiento": "Santa Fé",
+    "superficie": "145.09",
+    "pop10": "3047.00",
+    "den10": "21.00"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Santa Fé",
+    "id": "09-9-2",
+    "corregimiento": "Calovébora",
+    "superficie": "1127.35",
+    "pop10": "4397.00",
+    "den10": "03.90"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Santa Fé",
+    "id": "09-9-3",
+    "corregimiento": "El Alto",
+    "superficie": "84.96",
+    "pop10": "1318.00",
+    "den10": "15.51"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Santa Fé",
+    "id": "09-9-4",
+    "corregimiento": "El Cuay",
+    "superficie": "85.60",
+    "pop10": "1486.00",
+    "den10": "17.36"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Santa Fé",
+    "id": "09-9-5",
+    "corregimiento": "El Pantano",
+    "superficie": "52.54",
+    "pop10": "658.00",
+    "den10": "12.52"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Santa Fé",
+    "id": "09-9-6",
+    "corregimiento": "Gatú o Gatucito",
+    "superficie": "95.54",
+    "pop10": "1315.00",
+    "den10": "13.76"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Santa Fé",
+    "id": "09-9-7",
+    "corregimiento": "Río Luis",
+    "superficie": "259.18",
+    "pop10": "2204.00",
+    "den10": "08.50"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Santa Fé",
+    "id": "09-9-8",
+    "corregimiento": "Rubén Cantú",
+    "superficie": "69.82",
+    "pop10": "1160.00",
+    "den10": "16.61"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "id": "09-10",
+    "distrito": "Santiago",
+    "superficie": "970.86",
+    "pop10": "88997.00",
+    "den10": "91.67",
+    "capital": "Santiago"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Santiago",
+    "id": "09-10-1",
+    "corregimiento": "Santiago",
+    "superficie": "44.22",
+    "pop10": "31065.00",
+    "den10": "702.56"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Santiago",
+    "id": "09-10-2",
+    "corregimiento": "La Colorada",
+    "superficie": "65.22",
+    "pop10": "2128.00",
+    "den10": "32.63"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Santiago",
+    "id": "09-10-3",
+    "corregimiento": "La Peña",
+    "superficie": "117.64",
+    "pop10": "3990.00",
+    "den10": "33.92"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Santiago",
+    "id": "09-10-4",
+    "corregimiento": "La Raya de Santa María",
+    "superficie": "107.56",
+    "pop10": "3268.00",
+    "den10": "30.38"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Santiago",
+    "id": "09-10-5",
+    "corregimiento": "Ponuga",
+    "superficie": "289.71",
+    "pop10": "2798.00",
+    "den10": "09.66"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Santiago",
+    "id": "09-10-6",
+    "corregimiento": "San Pedro del Espino",
+    "superficie": "22.51",
+    "pop10": "1629.00",
+    "den10": "72.35"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Santiago",
+    "id": "09-10-7",
+    "corregimiento": "Canto del Llano",
+    "superficie": "79.14",
+    "pop10": "13331.00",
+    "den10": "168.45"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Santiago",
+    "id": "09-10-8",
+    "corregimiento": "Los Algarrobos",
+    "superficie": "63.36",
+    "pop10": "5490.00",
+    "den10": "86.65"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Santiago",
+    "id": "09-10-9",
+    "corregimiento": "Carlos Santana Ávila",
+    "superficie": "67.64",
+    "pop10": "4059.00",
+    "den10": "60.01"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Santiago",
+    "id": "09-10-10",
+    "corregimiento": "Edwin Fábrega",
+    "superficie": "35.36",
+    "pop10": "3434.00",
+    "den10": "97.13"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Santiago",
+    "id": "09-10-11",
+    "corregimiento": "San Martín de Porres",
+    "superficie": "16.38",
+    "pop10": "16406.00",
+    "den10": "1001.47"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Santiago",
+    "id": "09-10-12",
+    "corregimiento": "Urracá",
+    "superficie": "62.11",
+    "pop10": "1399.00",
+    "den10": "22.53"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "id": "09-11",
+    "distrito": "Soná",
+    "superficie": "1519.09",
+    "pop10": "27833.00",
+    "den10": "18.32",
+    "capital": "Soná"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Soná",
+    "id": "09-11-1",
+    "corregimiento": "Soná",
+    "superficie": "70.13",
+    "pop10": "10802.00",
+    "den10": "154.02"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Soná",
+    "id": "09-11-2",
+    "corregimiento": "Bahía Honda",
+    "superficie": "174.96",
+    "pop10": "1037.00",
+    "den10": "05.93"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Soná",
+    "id": "09-11-3",
+    "corregimiento": "Calidonia",
+    "superficie": "158.16",
+    "pop10": "1419.00",
+    "den10": "08.97"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Soná",
+    "id": "09-11-4",
+    "corregimiento": "Cativé",
+    "superficie": "131.85",
+    "pop10": "822.00",
+    "den10": "06.23"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Soná",
+    "id": "09-11-5",
+    "corregimiento": "El Marañón",
+    "superficie": "114.21",
+    "pop10": "2322.00",
+    "den10": "20.33"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Soná",
+    "id": "09-11-6",
+    "corregimiento": "Guarumal",
+    "superficie": "324.34",
+    "pop10": "3239.00",
+    "den10": "09.99"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Soná",
+    "id": "09-11-7",
+    "corregimiento": "La Soledad",
+    "superficie": "115.31",
+    "pop10": "1517.00",
+    "den10": "13.16"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Soná",
+    "id": "09-11-8",
+    "corregimiento": "Quebrada de Oro",
+    "superficie": "60.81",
+    "pop10": "955.00",
+    "den10": "15.70"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Soná",
+    "id": "09-11-9",
+    "corregimiento": "Río Grande",
+    "superficie": "247.01",
+    "pop10": "3674.00",
+    "den10": "14.87"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Soná",
+    "id": "09-11-10",
+    "corregimiento": "Rodeo Viejo",
+    "superficie": "122.30",
+    "pop10": "2046.00",
+    "den10": "16.73"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "id": "09-12",
+    "distrito": "Mariato",
+    "superficie": "1381.42",
+    "pop10": "5296.00",
+    "den10": "03.83",
+    "capital": "Llano de Catival o Mariato (Cabec)"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Mariato",
+    "id": "09-12-1",
+    "corregimiento": "Llano de Catival o Mariato (Cabec)",
+    "superficie": "75.33",
+    "pop10": "2376.00",
+    "den10": "31.54"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Mariato",
+    "id": "09-12-2",
+    "corregimiento": "Arenas",
+    "superficie": "232.34",
+    "pop10": "663.00",
+    "den10": "02.85"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Mariato",
+    "id": "09-12-3",
+    "corregimiento": "El Cacao",
+    "superficie": "411.06",
+    "pop10": "529.00",
+    "den10": "01.29"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Mariato",
+    "id": "09-12-4",
+    "corregimiento": "Quebro",
+    "superficie": "349.42",
+    "pop10": "1129.00",
+    "den10": "03.23"
+  },
+  {
+    "provincia": "VERAGUAS",
+    "distrito": "Mariato",
+    "id": "09-12-5",
+    "corregimiento": "Tebario",
+    "superficie": "313.26",
+    "pop10": "599.00",
+    "den10": "01.91"
+  },
+  {
+    "provincia": "COMARCA KUNA YALA",
+    "id": "10-1",
+    "distrito": "Comarca Kuna Yala",
+    "superficie": "2358.21",
+    "pop10": "33109.00",
+    "den10": "14.04",
+    "capital": "Narganá"
+  },
+  {
+    "provincia": "COMARCA KUNA YALA",
+    "distrito": "Comarca Kuna Yala",
+    "id": "10-1-1",
+    "corregimiento": "Narganá",
+    "superficie": "785.07",
+    "pop10": "14060.00",
+    "den10": "17.91"
+  },
+  {
+    "provincia": "COMARCA KUNA YALA",
+    "distrito": "Comarca Kuna Yala",
+    "id": "10-1-2",
+    "corregimiento": "Ailigandí",
+    "superficie": "821.45",
+    "pop10": "11644.00",
+    "den10": "14.17"
+  },
+  {
+    "provincia": "COMARCA KUNA YALA",
+    "distrito": "Comarca Kuna Yala",
+    "id": "10-1-3",
+    "corregimiento": "Puerto Obaldía",
+    "superficie": "131.25",
+    "pop10": "672.00",
+    "den10": "05.12"
+  },
+  {
+    "provincia": "COMARCA KUNA YALA",
+    "distrito": "Comarca Kuna Yala",
+    "id": "10-1-4",
+    "corregimiento": "Tubualá",
+    "superficie": "620.45",
+    "pop10": "6733.00",
+    "den10": "10.85"
+  },
+  {
+    "provincia": "COMARCA EMBERÁ",
+    "superficie": "4393.90",
+    "pop10": "10001.00",
+    "den10": "02.28"
+  },
+  {
+    "provincia": "COMARCA EMBERÁ",
+    "id": "11-1",
+    "distrito": "Cémaco",
+    "superficie": "3097.54",
+    "pop10": "7715.00",
+    "den10": "02.49",
+    "capital": "Cirilo Guainora"
+  },
+  {
+    "provincia": "COMARCA EMBERÁ",
+    "distrito": "Cémaco",
+    "id": "11-1-1",
+    "corregimiento": "Cirilo Guainora",
+    "superficie": "434.76",
+    "pop10": "2197.00",
+    "den10": "05.05"
+  },
+  {
+    "provincia": "COMARCA EMBERÁ",
+    "distrito": "Cémaco",
+    "id": "11-1-2",
+    "corregimiento": "Lajas Blancas",
+    "superficie": "1548.22",
+    "pop10": "3735.00",
+    "den10": "02.41"
+  },
+  {
+    "provincia": "COMARCA EMBERÁ",
+    "distrito": "Cémaco",
+    "id": "11-1-3",
+    "corregimiento": "Manuel Ortega",
+    "superficie": "1114.56",
+    "pop10": "1783.00",
+    "den10": "01.60"
+  },
+  {
+    "provincia": "COMARCA EMBERÁ",
+    "id": "11-2",
+    "distrito": "Sambú",
+    "superficie": "1296.37",
+    "pop10": "2286.00",
+    "den10": "01.76"
+  },
+  {
+    "provincia": "COMARCA EMBERÁ",
+    "distrito": "Sambú",
+    "id": "11-2-1",
+    "corregimiento": "Río Sábalo",
+    "superficie": "562.16",
+    "pop10": "1800.00",
+    "den10": "03.20"
+  },
+  {
+    "provincia": "COMARCA EMBERÁ",
+    "distrito": "Sambú",
+    "id": "11-2-2",
+    "corregimiento": "Jingurudó",
+    "superficie": "734.21",
+    "pop10": "486.00",
+    "den10": "00.66"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "superficie": "6814.19",
+    "pop10": "156747.00",
+    "den10": "23.00"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "id": "12-1",
+    "distrito": "Besiko",
+    "superficie": "752.16",
+    "pop10": "23532.00",
+    "den10": "31.29",
+    "capital": "Soloy"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Besiko",
+    "id": "12-1-1",
+    "corregimiento": "Soloy",
+    "superficie": "113.08",
+    "pop10": "4153.00",
+    "den10": "36.73"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Besiko",
+    "id": "12-1-2",
+    "corregimiento": "Boca de Balsa",
+    "superficie": "119.54",
+    "pop10": "3053.00",
+    "den10": "25.54"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Besiko",
+    "id": "12-1-3",
+    "corregimiento": "Camarón Arriba",
+    "superficie": "49.67",
+    "pop10": "2977.00",
+    "den10": "59.94"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Besiko",
+    "id": "12-1-4",
+    "corregimiento": "Cerro Banco",
+    "superficie": "106.96",
+    "pop10": "3913.00",
+    "den10": "36.59"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Besiko",
+    "id": "12-1-5",
+    "corregimiento": "Cerro de Patena",
+    "superficie": "51.16",
+    "pop10": "1730.00",
+    "den10": "33.82"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Besiko",
+    "id": "12-1-6",
+    "corregimiento": "Emplanada de Chorcha",
+    "superficie": "147.57",
+    "pop10": "2348.00",
+    "den10": "15.91"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Besiko",
+    "id": "12-1-7",
+    "corregimiento": "Nämnoni",
+    "superficie": "28.36",
+    "pop10": "1867.00",
+    "den10": "65.83"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Besiko",
+    "id": "12-1-8",
+    "corregimiento": "Niba",
+    "superficie": "135.83",
+    "pop10": "3491.00",
+    "den10": "25.70"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "id": "12-2",
+    "distrito": "Mironó",
+    "superficie": "343.13",
+    "pop10": "15010.00",
+    "den10": "43.74",
+    "capital": "Hato Pilón"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Mironó",
+    "id": "12-2-1",
+    "corregimiento": "Hato Pilón",
+    "superficie": "43.74",
+    "pop10": "2356.00",
+    "den10": "53.86"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Mironó",
+    "id": "12-2-2",
+    "corregimiento": "Cascabel",
+    "superficie": "125.72",
+    "pop10": "1225.00",
+    "den10": "09.74"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Mironó",
+    "id": "12-2-3",
+    "corregimiento": "Hato Corotú",
+    "superficie": "21.12",
+    "pop10": "2134.00",
+    "den10": "101.03"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Mironó",
+    "id": "12-2-4",
+    "corregimiento": "Hato Culantro",
+    "superficie": "68.65",
+    "pop10": "2110.00",
+    "den10": "30.73"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Mironó",
+    "id": "12-2-5",
+    "corregimiento": "Hato Jobo",
+    "superficie": "31.14",
+    "pop10": "1393.00",
+    "den10": "44.74"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Mironó",
+    "id": "12-2-6",
+    "corregimiento": "Hato Julí",
+    "superficie": "10.56",
+    "pop10": "1504.00",
+    "den10": "142.49"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Mironó",
+    "id": "12-2-7",
+    "corregimiento": "Quebrada de Loro",
+    "superficie": "14.72",
+    "pop10": "1616.00",
+    "den10": "109.77"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Mironó",
+    "id": "12-2-8",
+    "corregimiento": "Salto Dupí",
+    "superficie": "27.47",
+    "pop10": "2672.00",
+    "den10": "97.25"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "id": "12-3",
+    "distrito": "Müna",
+    "superficie": "796.40",
+    "pop10": "36075.00",
+    "den10": "45.30",
+    "capital": "Chichica"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Müna",
+    "id": "12-3-1",
+    "corregimiento": "Chichica",
+    "superficie": "82.67",
+    "pop10": "5368.00",
+    "den10": "64.93"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Müna",
+    "id": "12-3-2",
+    "corregimiento": "Alto Caballero",
+    "superficie": "31.82",
+    "pop10": "3854.00",
+    "den10": "121.11"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Müna",
+    "id": "12-3-3",
+    "corregimiento": "Bakama",
+    "superficie": "10.60",
+    "pop10": "1204.00",
+    "den10": "113.54"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Müna",
+    "id": "12-3-4",
+    "corregimiento": "Cerro Caña",
+    "superficie": "30.35",
+    "pop10": "2146.00",
+    "den10": "70.70"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Müna",
+    "id": "12-3-5",
+    "corregimiento": "Cerro Puerco",
+    "superficie": "43.31",
+    "pop10": "4327.00",
+    "den10": "99.91"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Müna",
+    "id": "12-3-6",
+    "corregimiento": "Krüa",
+    "superficie": "167.93",
+    "pop10": "2180.00",
+    "den10": "12.98"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Müna",
+    "id": "12-3-7",
+    "corregimiento": "Maraca",
+    "superficie": "36.90",
+    "pop10": "3224.00",
+    "den10": "87.37"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Müna",
+    "id": "12-3-8",
+    "corregimiento": "Nibra",
+    "superficie": "35.64",
+    "pop10": "2091.00",
+    "den10": "58.67"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Müna",
+    "id": "12-3-9",
+    "corregimiento": "Peña Blanca",
+    "superficie": "143.90",
+    "pop10": "3358.00",
+    "den10": "23.34"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Müna",
+    "id": "12-3-10",
+    "corregimiento": "Roka",
+    "superficie": "83.68",
+    "pop10": "2697.00",
+    "den10": "32.23"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Müna",
+    "id": "12-3-11",
+    "corregimiento": "Sitio Prado",
+    "superficie": "105.54",
+    "pop10": "3478.00",
+    "den10": "32.96"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Müna",
+    "id": "12-3-12",
+    "corregimiento": "Umani",
+    "superficie": "24.06",
+    "pop10": "2148.00",
+    "den10": "89.29"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "id": "12-4",
+    "distrito": "Nole Duima",
+    "superficie": "185.06",
+    "pop10": "14928.00",
+    "den10": "80.67",
+    "capital": "Cerro Iglesias"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Nole Duima",
+    "id": "12-4-1",
+    "corregimiento": "Cerro Iglesias",
+    "superficie": "31.18",
+    "pop10": "4123.00",
+    "den10": "132.25"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Nole Duima",
+    "id": "12-4-2",
+    "corregimiento": "Hato Chamí",
+    "superficie": "50.29",
+    "pop10": "3857.00",
+    "den10": "76.69"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Nole Duima",
+    "id": "12-4-3",
+    "corregimiento": "Jädaberi",
+    "superficie": "66.88",
+    "pop10": "1476.00",
+    "den10": "22.07"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Nole Duima",
+    "id": "12-4-4",
+    "corregimiento": "Lajero",
+    "superficie": "16.30",
+    "pop10": "2674.00",
+    "den10": "164.08"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Nole Duima",
+    "id": "12-4-5",
+    "corregimiento": "Susama",
+    "superficie": "20.41",
+    "pop10": "2798.00",
+    "den10": "137.11"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "id": "12-5",
+    "distrito": "Ñürüm",
+    "superficie": "574.69",
+    "pop10": "13172.00",
+    "den10": "22.92",
+    "capital": "Buenos Aires"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Ñürüm",
+    "id": "12-5-1",
+    "corregimiento": "Buenos Aires",
+    "superficie": "62.71",
+    "pop10": "1856.00",
+    "den10": "29.60"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Ñürüm",
+    "id": "12-5-2",
+    "corregimiento": "Agua de Salud",
+    "superficie": "133.46",
+    "pop10": "3049.00",
+    "den10": "22.85"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Ñürüm",
+    "id": "12-5-3",
+    "corregimiento": "Alto de Jesús",
+    "superficie": "27.50",
+    "pop10": "686.00",
+    "den10": "24.94"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Ñürüm",
+    "id": "12-5-4",
+    "corregimiento": "Cerro Pelado",
+    "superficie": "31.50",
+    "pop10": "2361.00",
+    "den10": "74.96"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Ñürüm",
+    "id": "12-5-5",
+    "corregimiento": "El Bale",
+    "superficie": "48.39",
+    "pop10": "813.00",
+    "den10": "16.80"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Ñürüm",
+    "id": "12-5-6",
+    "corregimiento": "El Paredón",
+    "superficie": "109.09",
+    "pop10": "1060.00",
+    "den10": "09.72"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Ñürüm",
+    "id": "12-5-7",
+    "corregimiento": "El Piro",
+    "superficie": "05.41",
+    "pop10": "586.00",
+    "den10": "108.23"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Ñürüm",
+    "id": "12-5-8",
+    "corregimiento": "Guayabito",
+    "superficie": "59.69",
+    "pop10": "1663.00",
+    "den10": "27.86"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Ñürüm",
+    "id": "12-5-9",
+    "corregimiento": "Güibale",
+    "superficie": "96.94",
+    "pop10": "1098.00",
+    "den10": "11.33"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "id": "12-6",
+    "distrito": "Kankintú",
+    "superficie": "2422.11",
+    "pop10": "33121.00",
+    "den10": "13.67",
+    "capital": "Bisira"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Kankintú",
+    "id": "12-6-1",
+    "corregimiento": "Bisira",
+    "superficie": "209.22",
+    "pop10": "3200.00",
+    "den10": "15.30"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Kankintú",
+    "id": "12-6-2",
+    "corregimiento": "Bürí",
+    "superficie": "339.74",
+    "pop10": "4129.00",
+    "den10": "12.15"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Kankintú",
+    "id": "12-6-3",
+    "corregimiento": "Guariviara",
+    "superficie": "569.67",
+    "pop10": "5096.00",
+    "den10": "08.95"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Kankintú",
+    "id": "12-6-4",
+    "corregimiento": "Guoroni",
+    "superficie": "387.41",
+    "pop10": "2647.00",
+    "den10": "06.83"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Kankintú",
+    "id": "12-6-5",
+    "corregimiento": "Kankintú",
+    "superficie": "194.21",
+    "pop10": "5009.00",
+    "den10": "25.79"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Kankintú",
+    "id": "12-6-6",
+    "corregimiento": "Mününi",
+    "superficie": "87.77",
+    "pop10": "2742.00",
+    "den10": "31.24"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Kankintú",
+    "id": "12-6-7",
+    "corregimiento": "Piedra Roja",
+    "superficie": "164.24",
+    "pop10": "3035.00",
+    "den10": "18.48"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Kankintú",
+    "id": "12-6-8",
+    "corregimiento": "Tuwai",
+    "superficie": "256.88",
+    "pop10": "3015.00",
+    "den10": "11.74"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Kankintú",
+    "id": "12-6-9",
+    "corregimiento": "Man Creek",
+    "superficie": "212.96",
+    "pop10": "4248.00",
+    "den10": "19.95"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "id": "12-7",
+    "distrito": "Kusapín",
+    "superficie": "1740.65",
+    "pop10": "20909.00",
+    "den10": "12.01",
+    "capital": "Kusapín"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Kusapín",
+    "id": "12-7-1",
+    "corregimiento": "Kusapín",
+    "superficie": "23.12",
+    "pop10": "3080.00",
+    "den10": "133.25"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Kusapín",
+    "id": "12-7-2",
+    "corregimiento": "Bahía Azul",
+    "superficie": "76.53",
+    "pop10": "3621.00",
+    "den10": "47.31"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Kusapín",
+    "id": "12-7-3",
+    "corregimiento": "Calovébora o Santa Catalina",
+    "superficie": "272.48",
+    "pop10": "2963.00",
+    "den10": "10.87"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Kusapín",
+    "id": "12-7-4",
+    "corregimiento": "Loma Yuca",
+    "superficie": "300.48",
+    "pop10": "544.00",
+    "den10": "01.81"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Kusapín",
+    "id": "12-7-5",
+    "corregimiento": "Río Chiriquí",
+    "superficie": "596.27",
+    "pop10": "3658.00",
+    "den10": "06.13"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Kusapín",
+    "id": "12-7-6",
+    "corregimiento": "Tobobe",
+    "superficie": "215.32",
+    "pop10": "5056.00",
+    "den10": "23.48"
+  },
+  {
+    "provincia": "COMARCA NGÄBE BUGLÉ",
+    "distrito": "Kusapín",
+    "id": "12-7-7",
+    "corregimiento": "Valle Bonito",
+    "superficie": "256.44",
+    "pop10": "1987.00",
+    "den10": "07.75"
+  }
+]
